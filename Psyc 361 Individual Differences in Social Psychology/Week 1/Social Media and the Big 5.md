@@ -1,0 +1,19 @@
+Uses and Gratifications of Problematic Social Media Use Among University Students: a Simultaneous Examination of the Big Five of Personality Traits, Social Media Platforms, and Social Media Use Motives
+- investigate influences of big 5 personality scores on social media motives
+	- meeting new people and socializing
+	- expressing or presenting a more popular self
+	- passing time and entertainment 
+	- (all associated with problematic use)
+- users preferring snapchat, Facebook, Instagram reported higher levels of problematic use
+- being female, introverted, conscientious, agreeable, and neurotic were associated with problematic use
+- highly extraverted people use social media for the gratifications of meeting new people, socializing, informational and educational gratifications, and as a task management tool
+	- they also post higher numbers of photos/selfies
+	- have higher number of online friends
+	- demonstrate higher self-disclosure
+- highly agreeableness correlates with gratifications of maintaining relationships, informational educational gratifications
+	- more involved in liking and commenting on others' posts 
+- highly conscientious individuals use social media for the gratification of maintaining existing relationships and tend to involve others' responses to their selfies; unconscientious individuals use social media for news and information
+- openness is negatively associated with demonstrating oneself as more popular on Facebook and selfie-related interaction with others or commenting on others' posts
+- neuroticism, introversion, and unconscientiousness have been associated with problematic social media use
+- Findings of the present study indicated that women use social media more for maintaining their existing relationships, as a task management tool, and for informational and educational purposes, while men use social media more for meeting new people, for socializing, and for entertainment. Younger students use social media more for maintaining their existing relationships, for meeting new people, for socializing, for expressing or presenting themselves as being more popular, for passing time, and for entertainment.
+- Regarding personality, extraverted individuals use social media more for maintaining their existing relationships, for passing time, and for managing their tasks. Less conscientious individuals use social media more for expressing or presenting themselves as being more popular. Neurotic individuals use social media more for passing time. Finally, individuals who were open to experience use social media more for maintaining their existing relationships and for informational and educational purposes.
