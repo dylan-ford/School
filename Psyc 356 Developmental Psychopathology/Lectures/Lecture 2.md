@@ -65,11 +65,36 @@ Models of developmental psychopathology:
 				- lack of opportunity to occur feared catastrophic consequences don't happen if I speak
 			- unavailable or infrequent reinforcement of adaptive behaviours
 				- miss out on joy from connecting with someone
-				- selective mutism almost always results from reinforcement of behaviour
 	- Cognitive models: focus on components and processes of the mind: 
 		- Thinking patterns (e.g., flexible thinking, ruminating, catastrophizing) 
 		- Cognitive processes (e.g., attention, language, memory) 
 	- Treatment: unlearn unhelpful behaviours, learn helpful behaviours, learn more helpful thinking patterns
+	- behavioural model applied to selective mutism
+		- child is prompted to speak or engage > child gets anxious and avoids > adult speaks for them and rescues > anxiety is reduced for child > negative reinforcement of behaviour > increased likelihood of avoidance > child is prompted...
 - humanistic models
+	- tenets
+		- psychopathology is caused by factors interfering with the child's natural tendency to develop an integrated sense of self with unique and valued abilities and talents
+			- factors interfering: parents, teachers, societal expectations, child themselves
+	- treatment:
+		- building sense of self-efficacy, agency, self-direction
+		- finding congruence between the ideal self and the perceived self
 - family models
+	- tenets
+		- move beyond the individual to consider the families in which children are raised and the dynamics that are part of that family context
+		- families are typically the first setting for children's experiences and development
+		- caregivers play a large role in meeting children's needs
+		- young children typically spend a lot of time with their family
+	- subsystems within the family:
+		- parent - child
+		- child - grandparent
+		- child - sibling
+	- beyond the family there are also peers
 - sociocultural models
+	- tenets
+		- emphasize the importance of the social context, including gender, race, ethnicity, and socioeconomic status
+	- sociocultural models have undergone a paradigm shift where cultural considerations have moved from the periphery of inquiry to the core
+		- we have moved from the macro-level ecological models to cultural microsystems approach
+			- birth cohort
+			- social media
+			- offline and online vulnerabilities
+- 
