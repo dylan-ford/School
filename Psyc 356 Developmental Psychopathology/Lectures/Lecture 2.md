@@ -97,4 +97,51 @@ Models of developmental psychopathology:
 			- birth cohort
 			- social media
 			- offline and online vulnerabilities
-- 
+Principles and Practices of Developmental Psychopathology
+	- developmental psychopathologies ais a synthesis of the above multiple theoretical and research approaches
+- principles of developmental psychopathology
+	1. interplay between normal developmental and pathological functioning
+		- normal and abnormal developmental processes are considered together
+		- all phenomena occur on a continuum, whether they are developmentally appropriate or not
+			- development is cumulative; builds on top of itself
+				- early struggles lead to later struggles that build on the original skill
+			- development is organized (sensitive and critical periods)
+			- adaptational failure: failure to master or progress in developmental milestones
+			- development is best characterized by probabilistic pathways
+	2. developmental pathways
+	3. developmental processes and reciprocal and transactional
+	4. evaluating evidence across multiple levels of analysis to include: biological, individual, family, social, and cultural levels
+	5. examine both risk and protective actors to delineate pathways of risk and resilience
+		- risk: increased vulnerability to disorder
+		- risk factors: specific variables which increase vulnerability
+		- types of risk factors:
+			- individual: gender, temperament, intelligence
+			- family: associated with caretaking environment; parental and sibling characteristics
+			- social: factors of the child's larger environments-school, neighborhood, socioeconomic niche, cultural characteristics
+		- number of risk factors more important than the type
+			- some combination of ACEs are particularly harmful
+		- protective factors: factors associated with positive adaption
+			- resilience: adaptation despite adversity
+				- competence in the face of adversity
+				- children with many risk factors who have good outcomes
+				- children who continue to display competence when they are experience/
+- developmental pathways
+	- critical period: a time where then brain must have a certain environment stimuli to develop typically
+	- sensitive period: a time when brain development is heavily influenced by the environment. the brain may be primed to learn something at this point
+	- development is best characterized by probabilistic pathways
+	- equifinality vs multifinality
+		- equifinality: sets of differing circumstances that lead to the same diagnosis
+		- multifinality: sets of similar beginnings leading to different outcomes
+			- similar risk factors or environments leading to different outcomes
+	- continuity and discontinuity
+		- continuity: developmental changes are gradual and quantitative; predictive of future behaviour patterns
+			- homotypic continuity
+			- heterotypic continuity
+				- the same underlying trait shows up differently between children in development
+		- discontinuity: developmental changes are abrupt and qualitative; not predictive of future behaviour patterns
+	- stability vs instability
+		- the relative ordering of children compared to their peers as they develop
+	- reciprocal and transactional
+		- transactional example: child birth complications > parent anxious handling> child poor self-regulation > parent disengagement > child poor language/social skills
+- risk vs protective factors
+- cross-sectional vs longitudinal research

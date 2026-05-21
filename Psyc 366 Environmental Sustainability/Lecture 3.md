@@ -1,0 +1,48 @@
+Awareness, acceptance, action
+- moving from awareness to acceptance
+	- moving past denial, minimization distraction, avoidance
+	- allow ourselves to feel the pain
+- moving from acceptance to action
+	- best way to cope is to take action, with other people
+- Bingley et al. 2022
+	- review of 70 studies of climate anxiety
+	- multiple needs
+	- what worked across multiple needs?
+		- problem focused action
+		- emotion management
+			- expression with others
+			- mindful observation
+		- social connection
+	- limitations of this approach:
+		- coping should not just be left up to individuals to figure out for themselves
+			- need to look out for others
+			- need to collectively create systems and practices for coping
+- facing and accepting the reality of the climate change and other environmental problems is psychologically threatening
+- coping is possible through action, connection, and emotional management
+Psychological barriers to action
+- critique of psychological barriers - Schmitt et al 2022
+	- review lecture recording for analysis
+	- implication of inevitability - downplays context
+	- blames human nature - justifies status quo?
+	- "over-psychologizing" the problem, makes the whole problem about psychology
+		- any barrier to action requires a psychological component, but the barriers aren't exclusively psychological, which leaves out important variables 
+		- ex. ancient brain (things need to be proximal to be important to us), ignorance, disbelief
+Discourses of climate delay
+- someone else should take actions first: redirect responsibility
+- disruptive change is not necessary: push non-transformative solutions
+- change will be disruptive: emphasize the downsides
+- its not possible to mitigate climate change: surrender
+Levels of analysis
+- focus in discourse is often on individual consumption
+	- implication is that societal transformation isn't necessary; "green consumer" paradigm
+- psychology can offer more if we widen our lens
+	- recognize that we are not individuals, that we belong to groups and that groups are an important part of the context of how we relate to the environment
+	- some groups have more power than others, and these groups may want to work to protect their own interest; intergroup relations
+	- social structural context: how are things structured in a way that gives people power in a society/how decisions are made
+		- who has the power to influence the direction society moves/set up infrastructure
+	- power, justice, equality
+	- can look at intersections between climate change and intergroup relations: racism, sexism, colonialism
+	- if we only look at how individuals consume, we miss these crucial intergroup and intragroup phenomena
+	- power of social movements and social protest
+Why do people conform?
+- 
