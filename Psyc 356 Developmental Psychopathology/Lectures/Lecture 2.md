@@ -1,0 +1,75 @@
+Models of Child Development & Principles and Practices of Developmental Psychopathology
+Key concepts
+- what are the models of development?
+- how does each model of development relate to risk of developing a disorder
+- how does each model relate to the treatment of disorders/maladaptive behaviours?
+
+Models of developmental psychopathology:
+- physiological models
+	- propose there is a physiological basis for all psychological processes and events
+	- models have become complex enough to understand gene x environment x time interactions
+		- neuroplasticity and reorganization of brain networks
+	- building blocks:
+		- ***Brain regions, brain networks, chemicals, genes***
+		- the interactions of these aspects with the environment over time
+		- disorders can impact these building blocks
+			- some treatments target deficits/damage to these building blocks
+	- across time there are specific moments in development where the influence is especially powerful:
+		- sensitive periods
+		- critical periods
+	- the brain is not separate from the body and develops together with other body systems (cardiovascular, immune, metabolic, endocrine)
+		- so physiological models need to incorporate what is going on in the rest of the body
+		- early experiences of stress and trauma can impact developing biological systems (stress-response systems)
+	- genes
+		- gene x environment x time takes into consideration the influence of nature and nurture
+		- small early differences in genes translate to larger differences later: a more naturally shy child's interactions with the environment reinforces certain behaviour and change environmental interactions later
+		- epigenetics: study of how environmental factors influence gene expressivity
+		- risk alleles (genetic variants) impair general processes across many disorders
+		- polygenic models emphasize that many genes have small effects that influence the development of both mild and severe forms of disorder
+			- its not the case that a specific gene causes a disorder, but rather many sets of genes may confer risk for developing some disorder
+		- diathesis-stress model
+			- more *vulnerable* individuals differ from others in ADVERSE conditions
+			- not much difference between high and low vulnerability individuals in NON-ADVERSE conditions
+		- differential susceptibility model
+			- more susceptible individuals are affected more strongly in BOTH ADVERSE AND SUPPORTIVE environments
+			- they are more negatively affected by bad environments, but more positively affected by supportive environments
+				- dandelion (do well across environments) vs orchid children (struggle in challenging settings but flourish in supportive ones)
+	- treatments
+		- target physiological building blocks
+		- medication for challenges with hormones
+		- transcranial magnetic stimulation - TMS (for treatment resistant depression)
+- psychodynamic models
+	- tenets
+		- unconscious processes influence typical and atypical development
+		- conflicts between "Structures" of the mind (id, ego, superego)
+		- developmental stages that have distinct emotional, intellectual, and social challenges to overcome
+		- successful (or not) resolution of stage-related challenges has impact on later development
+	- models
+		- Freud's psychosexual stages
+			- if you don't overcome the demands of a specific stage, it will have impacts on development; you will become "stuck" at a certain stage
+			- oral - voracity, demand, selfishness, clinginess
+			- urethral - impulsivity
+			- anal - tendency to order, punctuality
+			- phallic - exaggerated masculinity, acting immature
+		- Anna Freud's lines of development
+	- treatment
+		- focus on resolving unconscious conflicts
+		- revealed trough play therapy 
+- behavioural and cognitive models
+	- tenets
+		- typical and atypical behaviours acquired through learning
+		- psychopathology arises because of learning going awry:
+			- maladaptive behaviours reinforced
+				- not speaking is reinforced when adult speaks on behalf of child
+			- lack of opportunity to learn adaptive/appropriate behaviours
+				- lack of opportunity to occur feared catastrophic consequences don't happen if I speak
+			- unavailable or infrequent reinforcement of adaptive behaviours
+				- miss out on joy from connecting with someone
+				- selective mutism almost always results from reinforcement of behaviour
+	- Cognitive models: focus on components and processes of the mind: 
+		- Thinking patterns (e.g., flexible thinking, ruminating, catastrophizing) 
+		- Cognitive processes (e.g., attention, language, memory) 
+	- Treatment: unlearn unhelpful behaviours, learn helpful behaviours, learn more helpful thinking patterns
+- humanistic models
+- family models
+- sociocultural models
