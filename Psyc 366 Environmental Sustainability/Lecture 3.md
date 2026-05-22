@@ -45,4 +45,23 @@ Levels of analysis
 	- if we only look at how individuals consume, we miss these crucial intergroup and intragroup phenomena
 	- power of social movements and social protest
 Why do people conform?
-- 
+- informational influence - norms carry information
+- normative influence - wanting to belong, get along well with others
+- collective identity
+	- determines what norms matter
+	- motivation to follow norms
+	- we often identify with groups, which influence our personal beliefs and social roles; norms are attached to groups
+- types of outcomes
+	- public compliance vs private acceptance
+	- public compliance
+		- normative but not informational influence
+		- happens when we are trying to belong
+Pluralistic ignorance
+- USA
+	- 80-90% underestimate belief in climate change and support for climate policies
+	- carbon tax support = 67%
+	- green new deal support = 66%
+	- similar underestimations at state level
+- China
+	- 98% believe global warming is happening
+	- participants estimated at 65%
