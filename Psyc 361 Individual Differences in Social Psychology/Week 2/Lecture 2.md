@@ -35,7 +35,7 @@ Lecture 2: Growth and Fixed Mindsets
 - fixed mindset: belief intelligence is fixed, each person has their allotted share, and there is little they can do to increase that allotment
 - whereas growth mindset reflects the belief that intelligence is modifiable through **increased effort**
 - growth mindset associated with upward trajectory in grades, stable mindset associated with flat trajectory
-fixed vs growth mindset
+Fixed vs growth mindset
 - different goals
 	- adoption of growth mindset leads to a preference of challenging tasks, which increases their ability and helps them achieve greater mastery
 		- encourages people to respond to learning opportunities to learn something new
@@ -48,6 +48,9 @@ fixed vs growth mindset
 - response to challenges
 	- growth mindset: mistakes are seen as opportunities to learn and improve
 	- fixed mindset: mistakes are seen as a lack of ability > leads to avoiding seeking help
-	- 
 - self-regulated learning
+	- people primed with growth mindsets are more likely to compare themselves to others that did better than themselves, and wanted to retake the tutorials - aim was to learn and get better
+development of fixed vs growth mindset
+- based on the type of praise a child receives
+	- praise about intelligence is associated with greater performance goals (over learning goals) - children cared about performance more
 	- 
