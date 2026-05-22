@@ -34,5 +34,6 @@ Lecture 2: Growth and Fixed Mindsets
 	- whereas incremental theory/growth mindset reflects the assumption that a particular attribute is subject to change
 - fixed mindset: belief intelligence is fixed, each person has their allotted share, and there is little they can do to increase that allotment
 - whereas growth mindset reflects the belief that intelligence is modifiable through **increased effort**
-- 
+- growth mindset associated with upward trajectory in grades, stable mindset associated with flat trajectory
+
 
