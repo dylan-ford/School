@@ -35,5 +35,19 @@ Lecture 2: Growth and Fixed Mindsets
 - fixed mindset: belief intelligence is fixed, each person has their allotted share, and there is little they can do to increase that allotment
 - whereas growth mindset reflects the belief that intelligence is modifiable through **increased effort**
 - growth mindset associated with upward trajectory in grades, stable mindset associated with flat trajectory
-
-
+fixed vs growth mindset
+- different goals
+	- adoption of growth mindset leads to a preference of challenging tasks, which increases their ability and helps them achieve greater mastery
+		- encourages people to respond to learning opportunities to learn something new
+	- fixed mindset > often leads to performing actions in order to **appear** capable and avoid challenge - primary concern is with being perceived as adequately capable, and failure would convey the opposite (performance goals)
+- attribution to failure
+	- individuals who subscribe to an incremental view will attribute a failure to not yet having learned something, looking at something from the incorrect perspective, or not working hard enough
+	- all these problems can be corrected through effort, leading incrementalists to continually seek any situation that will intellectually better themselves
+	- more likely to engage in remedial action to correct mistakes if necessary
+	- fixed intelligence views attribute failure to their own lack of ability
+- response to challenges
+	- growth mindset: mistakes are seen as opportunities to learn and improve
+	- fixed mindset: mistakes are seen as a lack of ability > leads to avoiding seeking help
+	- 
+- self-regulated learning
+	- 
