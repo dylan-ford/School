@@ -1,0 +1,1 @@
+Clayton, S., Devine-Wright, P., Stern, P. C., Whitmarsh, L., Carrico, A., Steg, L., et al. (2015). Psychological research and global climate change. Nature Climate Change, 5, 640–646.
