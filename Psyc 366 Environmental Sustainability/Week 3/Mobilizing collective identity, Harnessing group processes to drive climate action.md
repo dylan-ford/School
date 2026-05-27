@@ -1,2 +1,27 @@
 Fielding, K.S., Pittaway, C., Louis, W., & Hornsey, M. (2026). Mobilizing collective identity: Harnessing group processes to drive climate action. In M. T. Schmitt, G. Anjum, S. Clayton, & C. Manning (Eds.), Psychology and climate change: Human perception
 
+- How does social identity approach help us understand the different perspectives and actions of the 3 personas the authors introduce in the chapter (Tom, Linda, Caitlin)?
+- What do the authors (and the social identity approach) mean by “collective identities”?
+- Why is a collective analysis needed in understanding responses to climate change?
+- What two theories comprise the social identity approach?
+- What are the main assumptions of the social identity approach (pages 5-7)?
+- What are the processes proposed by the SIMPEA model that could explain whether people engaged in climate action? Make sure you know what SIMPEA stands for.
+- What are the processes involved in the Social Identity Model of Collective Action (SIMCA) and the Encapsulated Model of Social Identity in Collective Action (EMSICA)? How are the models different?
+-  How does research support the idea that identification with groups predict climate action? What kind of groups are most likely to predict action?
+- Why might minority groups be less likely to identify with the climate change action groups? What does this suggest the climate movement needs to do?
+- In what ways does research on norms and pro-environmental behaviour not always align with the social identity approach? From the social identity approach what kind of norms matter and when?
+- What is the difference between injunctive and descriptive norms?
+- Is there evidence that group norms are relevant to environmental and climate relevant behaviour?
+- What happens when there is a misalignment between injunctive and descriptive norms?
+- What happens when someone belongs to one group with norms favouring environmental actions, and another group that is anti-environmentalist?
+- What are collective efficacy beliefs and how are they relevant to climate action? What are participatory efficacy beliefs?
+-  What is meant by “group-based emotions?”
+- What are some of the types of group-based emotion that are related to environmentally relevant behaviour? What kind of emotions seem to work better for motivating action – positive or negative?
+- How does the social identity approach help us understand conflict between groups around climate change?
+- How do groups with a vested interest in climate inaction create political conflict to delay climate action?
+- How might climate conflict emerge along geographic lines?
+-  How might climate change increase intergroup conflict or even cause new conflicts to emerge?
+- The authors describe 7 strategies suggested by the social identity approach for mobilizing climate action. Know each of these strategies and be able to apply them to specific groups. Also be aware of potential complications the authors identify for implementing some of these strategies and how to avoid having them backfire.
+- How do you best use ingroup norms to influence behaviour if injunctive norms are supportive buy descriptive norms are not?
+- What are some of the ways to increase a sense of efficacy in the environmental context?
+- What might motivate action when efficacy is low, descriptive norms are unsupportive, and behavior is costly?
