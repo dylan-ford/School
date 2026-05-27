@@ -2,6 +2,6 @@ Clayton, S., Devine-Wright, P., Stern, P. C., Whitmarsh, L., Carrico, A., Steg, 
 
 - What factors shape people’s perceptions of climate change? What is the role of sources of information in people’s beliefs?
 - Explain the complicated relationship between political orientation and how people respond to climate change science and communication.
-- How do motivational processes and biases a?ect perception of climate change?
+- How do motivational processes and biases affect perception of climate change?
 - How much of our climate-related behavioural decisions are made with conscious awareness?
 - How well do financial decisions work in motivating climate change mitigating behaviour?
