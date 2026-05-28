@@ -12,7 +12,7 @@ mitigation. American Psychologist, 66, 290-302.
 		- **Worldviews**: broad belief systems can clash with the need for collective action (capitalism)
 		- **suprahuman powers**: belief that a deity or mother nature will provide for humans or take a course we cannot influence > leads to personal inaction
 		- **technosalvation**: overconfident faith that mechanical innovation alone will solve the climate crisis > barrier to an individual's behavioural change
-		- system justification: tendency to justify and defend the societal status quo to maintain a comfortable lifestyle > refusal to adopt mitigative actions that disturb social harmony
+		- **system justification**: tendency to justify and defend the societal status quo to maintain a comfortable lifestyle > refusal to adopt mitigative actions that disturb social harmony
 	- Environmental Numbness
 		- a lack of awareness regarding the physical environment, often because climate change is not causing immediate personal difficulties
 		- or a numbness that occurs when people hear the same climate messages too often

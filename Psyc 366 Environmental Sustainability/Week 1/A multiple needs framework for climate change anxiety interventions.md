@@ -29,7 +29,9 @@ Multiple needs framework:
 **Questions**
 - What are the multiple needs addressed in this paper?
 	- individual, social, and environmental
-	- explain each
+	- individuals want to reduce discomfort the feel - hedonic motive, guilt
+	- social: goals of group and societal structure - met by collective action and group cohesion through common purpose
+	- environmental: strengthen people's connection to environmental activism to increase pro-environmental behaviour
 - How did the authors of this paper attempt to assess the effectiveness of different ways of reducing climate anxiety?
 	- for each type of intervention, the authors evaluated where it was likely to have a beneficial, neutral, or detrimental impact on individual, social, and environmental outcomes based on a set of criteria
 		- based on the direction of the reported effect vs the anticipated desirability of the outcome

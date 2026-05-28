@@ -24,7 +24,7 @@ Fielding, K.S., Pittaway, C., Louis, W., & Hornsey, M. (2026). Mobilizing collec
 		- ingroup identification
 		- ingroup norms/goals
 		- collective efficacy
-		- collectives emotions
+		- collective emotions
 - What are the processes involved in the Social Identity Model of Collective Action (SIMCA) and the Encapsulated Model of Social Identity in Collective Action (EMSICA)? How are the models different?
 	- SIMCA: argues identification with politicized groups, group-based anger at injustice, and collective efficacy beliefs drive action; views emotions and efficacy as flowing from identity
 	- EMSICA: similar to SIMCA but suggests strong emotions and efficacy beliefs can actually be the impetus for forming new group identity
@@ -65,7 +65,7 @@ Fielding, K.S., Pittaway, C., Louis, W., & Hornsey, M. (2026). Mobilizing collec
 	- transition policies can create us vs them divisions between urban and rural communities, especially of rural livelihoods (coal) are threatened
 - How might climate change increase intergroup conflict or even cause new conflicts to emerge?
 	- tipping points leading to food/water scarcity and climate refugees act as "threat multipliers" for future intergroup violence
-- The authors describe 7 strategies suggested by the social identity approach for mobilizing climate action. Know each of these strategies and be able to apply them to specific groups. Also be aware of potential complications the authors identify for implementing some of these strategies and how to avoid having them backfire.
+- The authors describe 7 strategies suggested by the social identity approach for mobilizing climate action. **Know each of these strategies and be able to apply them to specific groups. Also be aware of potential complications the authors identify for implementing some of these strategies and how to avoid having them backfire.**
 	1. Align identity with action
 		- use identity leadership to embed climate action into the group's prototype
 	2. use ingroup messengers
@@ -74,7 +74,7 @@ Fielding, K.S., Pittaway, C., Louis, W., & Hornsey, M. (2026). Mobilizing collec
 		- use broad identities like "we humans" to overcome "us vs them" conflicts
 	4. harness ingroup norms
 		- communicate that the group approves of and practices green behaviour
-	5. increase collectives efficacy
+	5. increase collective efficacy
 		- highlight past group success and the feasibility of solutions
 	6. elicit collective emotions
 		- remind the group of its responsibility for danger to trigger collectives guilt
