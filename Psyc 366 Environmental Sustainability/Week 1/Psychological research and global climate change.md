@@ -51,6 +51,7 @@ Impact on human well-being and adaptation responses
 - successful adaptation depends on social factors like trust and collectives identity
 	- research shows that group discussions and providing specific, personal action can improve community preparedness and cooperation
 
+**Questions**
 - What factors shape people’s perceptions of climate change? What is the role of sources of information in people’s beliefs?
 	- factors shaping perception of climate change:
 		- how information is communicated and by whom
@@ -73,5 +74,4 @@ Impact on human well-being and adaptation responses
 - How well do financial decisions work in motivating climate change mitigating behaviour?
 	- level of effort to take advantage of an incentive and trust in institutions can impact people's willingness to adopt new energy efficient technology 
 	- effects of financial inducements last only while the incentives are in place
-	- focusing attention on financial gain shifts it away from engagement in sustainable actions towards gaining profit
-	- 
+	- focusing attention on financial gain shifts focus from "doing good" to "gaining a profit"

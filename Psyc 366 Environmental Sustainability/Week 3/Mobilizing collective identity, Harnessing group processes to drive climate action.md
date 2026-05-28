@@ -1,5 +1,6 @@
 Fielding, K.S., Pittaway, C., Louis, W., & Hornsey, M. (2026). Mobilizing collective identity: Harnessing group processes to drive climate action. In M. T. Schmitt, G. Anjum, S. Clayton, & C. Manning (Eds.), Psychology and climate change: Human perception
 
+**Questions**
 - How does social identity approach help us understand the different perspectives and actions of the 3 personas the authors introduce in the chapter (Tom, Linda, Caitlin)?
 - What do the authors (and the social identity approach) mean by “collective identities”?
 - Why is a collective analysis needed in understanding responses to climate change?

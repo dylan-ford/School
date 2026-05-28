@@ -2,6 +2,7 @@ Schmitt, M.T., Neufeld, S.D., Mackay, C.M.L., & Dys-Steenbergen, O. (2022). The 
 explaining climate inaction in terms of psychological barriers. Journal of Social Issues, 76,
 123-135.
 
+**Questions**
 - Summarize the main point of the paper in one sentence.
 - What approach do the authors take in this paper?
 - What are the main assumptions of this approach that are used in this paper? (spread throughout sections)

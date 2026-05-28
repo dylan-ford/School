@@ -1,24 +1,62 @@
 Lamb, W. F., Mattioli, G., Levi, S., Roberts, J. T., Capstick, S., Creutzig, F., … Steinberger, J. K.
 (2020). Discourses of climate delay. Global Sustainability, 3, e17. doi:10.1017/sus.2020.13
 
+**Questions**
 - What are the 3 kinds of arguments that have been predominantly used in the past to downplay the need for transformative climate action?
+	- outright denial of human-caused climate change
+	- climate-impact skepticism
+	- ad hominem attacks on scientists
 - What are the 4 general categories of climate delay discourses that the authors identify?
+	- redirect responsibility
+	- push non-transformative solutions
+	- emphasize the downsides
+	- surrender
 - For each of the 12 discourses below, make sure you know what they mean and that you are familiar with the examples the authors provide. Ideally you could name all 12 discourses below and provide an example for each.
-	- Individualism
-	- Whataboutism
-	- The free rider excuse
-	- Technological optimism
-	- All talk, little action
-	- Fossil fuel solutionism
-	- No sticks, just carrots
-	- Policy perfectionism
-	- Appeal to well-being
-	- Appeal to social justice
-	- Change is impossible
-	- Doomism
+	- redirect responsibility
+		- Individualism
+			- shifts focus from systemic solutions to personal consumption choices
+			- e.g. yale university claiming fossil fuel consumption, rather than production, is the root problem
+		- Whataboutism
+			- pointing to other countries or sectors with higher emissions to justify inaction
+			- e.g. Nigel Farange arguing since the UK produces only 1.8% of global CO@ it should not close industries
+		- The free rider excuse
+			- claiming others will take advantage of those who lead on mitigation
+			- e.g. Donald Trump stating the Paris Agreement was about other countries gaining a financial advantage over the U.S.
+	- push non-transformative solutions
+		- Technological optimism
+			- blind faith that future technologies will solve the problem without the need for regulation
+		- All talk, little action
+			- declaring climate leadership through ambitious targets without providing concrete policy instruments
+		- Fossil fuel solutionism
+			- claiming fossil fuels are part of the solution or are a necessary "bridge"
+		- No sticks, just carrots
+			- arguing only for voluntary "carrot" policies (like subsidies) while rejecting restrictive "stick" policies
+			- e.g. Peter Altmaier defending low carbon price to maintain "social peace"
+	- emphasize the downsides
+		- Policy perfectionism
+			- arguing for extreme caution to avoid losing public support, which results in delaying ambitious policy
+		- Appeal to well-being
+			- claiming that abandoning fossil fuels will threaten fundamental livelihoods
+		- Appeal to social justice
+			- framing climate action as an unfair burden on the poor or hard-working families
+	- Surrender
+		- Change is impossible
+			- claiming that the required socio-economic transformations are "scarcely imaginable" or against human nature
+		- Doomism
+			- arguing that catastrophic climate change is already "locked-in" and action is futile
 - How did BP promote the individualism discourse?
+	- they ran the "know your carbon footprint" campaign which funneled conversation into personal "pledges" which narrowed the solution space to individual choices and obscured the role of large organizations in driving emissions
 - How does the American Petroleum Institute promote non-transformative solutions?
+	- API funds tens of millions of dollars in advertisements that promote "cleaner" fossil fuels.
+	- emotively link these products to everyday human well-being to suggest that the industry is part of the solution rather than the problem
 - What do the authors say about the legitimacy of the appeal to social justice discourse?
+	- the authors state that social impacts are a legitimate and crucial aspect of climate policy deliberation
+	- they become delay tactics when they focus *only* on short-term downsides
 - What do discourses of delay tend to leave out of social justice appeals?
+	- delay discourses typically leave out the injustice of failing to act
+	- they disregard the potential benefits of a transition: improved public health, new employment opportunities, and community resilience
 - What are the 2 ways to construct discourses of surrender?
+	- first, claiming strong policies impinge (have negative effects) on human natureso much that they are doomed to fail (change is impossible)
+	- second, arguing that any action is "too little too late" (doomism)
 - What discourses of delay are involved in arguments that put forth population size as the main driver of climate change?
+	- arguments citing population as the main driver involve "change is impossible" - which assumes emissions trajectories are fixed, and "whataboutisms" - which focus on growing populations in the developing world rather than the responsibility of developed nations

@@ -6,7 +6,7 @@ Bingley, W. J., Tran, A., Boyd, C. P., Gibson, K., Kalokerinos, E. K., Koval, P.
 	- identifies interventions focused on: problem-focused action, emotion management, and enhancing social connections
 - climate change anxiety: anxiety or worry about climate change and its effects; a chronic fear of environmental doom
 	-  47% of us adults say climate change related stress effects their daily lives detrimentally, with this % increasing amongst adults of nations that are more at risk
-	- 
+
 Multiple needs framework:
 - proposes climate change anxiety interventions differ in their effects on individual, social and environmental outcomes
 	- interventions should be evaluated on the effect they have on each outcome
@@ -26,6 +26,7 @@ Multiple needs framework:
 	- interventions that strengthen people's connection to environmental activism are more likely to increase pro-environmental behaviour - impact pro-environmental norms
 	- **interventions that promote connection to nature are also likely to promote pro-environmental behaviour**
 
+**Questions**
 - What are the multiple needs addressed in this paper?
 	- individual, social, and environmental
 	- explain each
