@@ -1,0 +1,8 @@
+- we've set up most of our economic systems on requiring growth, which will use and more and more resources over time
+- post growth approaches:
+	- slower growth, no growth, de growth
+	- orient towards sufficiency, equity, and well being
+	- equitably reducing energy intensive and less necessary forms of production and consumption
+	- reducing work time, redistribution of wealth, relocalizing production, investing in education, health care
+- would limiting growth undermine well-being?
+- degrowth#
