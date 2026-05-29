@@ -1,2 +1,63 @@
-Approach and Avoidance Motivations | May 29
+Approach and Avoidance Goals/Motivations | May 29
 
+three personal goals:
+- social
+	- ngl I'm killing it
+	- maybe improve public speaking
+- academic
+	- study more than literally the last day before a test
+- health/wellbeing
+	- L-set to handstand pipeline
+
+Motivation
+- the need or desire to do something
+- approach vs avoidance motivations
+	- people should want to play the coin flip game where winning gets them 10 and losing loses them 8 because people want to avoid negative consequences
+- individual differences in motivations
+	- long and prolific history of two key motives:
+		- towards desired end-states (appetitive/approach)
+		- avoid undesired end-states (aversive/avoidance)
+- Gray, Fowles
+	- behavioural activation system activates behaviour in response to signals of reward
+		- vs
+	- behavioural inhibition system inhibits behaviour in response to signals of punishment and novelty
+- Higgins
+	- self-regulation focused on the promotion of positive end-states
+		- vs
+	- self-regulation focused on the prevention of negative end-states
+- Carver and Scheier
+	- feedback processes are aimed at reduced the discrepancy between the self/goals and positive outcomes (discrepancy reducing)
+		- vs
+	- feedback processes are aimed at enlarging the discrepancy between the self/goals and negative outcomes (discrepancy enlarging)
+- Elliot & Sheldon, Elliot & Church
+	- achievement motive approach
+	- test anxiety approach
+	- attributional approach
+	- self-worth approach
+	- achievement goal approach > approach vs avoidance mindset
+- Approach and avoidance motivation differ as a function of **valence**
+	- **avoidance goals are focused on a negative outcome or state, and regulation involves trying to move towards or stay away from that outcome or state**
+- approach goals and positive outcomes
+	- challenges construal
+	- higher levels of aspiration 
+	- absorption during task engagement
+	- challenge-related affect while studying
+	- effort while studying
+	- persistence while studying
+	- calmness during evaluation
+- avoidance goals and poor outcomes
+	- procrastination
+	- threat construals
+	- unwillingness to seek help
+	- shallow processing of information
+	- low self-determination while studying
+	- disorganized studying
+	- threat-related affect while studying
+- goals, performance and outcomes
+	- mastery goals > activity emotions: enjoyment (+), boredom, anger (-)
+		- persistence + effort
+	- performance-approach goals > positive outcome emotions: hope, pride
+		- 
+	- performance avoidance goals > negative outcome emotions: anxiety, hopelessness, shame
+		- 
+- 
