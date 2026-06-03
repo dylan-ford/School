@@ -1,2 +1,128 @@
 - size of economies are related to environmental harm and CO2
-- 
+- Jevon's paradox/rebound effect
+	- why do increases in efficiency not translate into decreases in consumption?
+	- profit motive > use efficiency to expand production rather than maintain current profit
+	- consumption increases (or economic crisis)
+		- lower prices due to uncreased efficiency
+		- ubiquitous advertising
+- one solution to Jevon's: reduce working hours over increasing production
+	- if we also increase equality, will reduce consumption and maintain or increase happiness
+- economic growth isn't a universal good
+- having more money and consuming more has limited effect on well-being
+- inequality bad for well-being
+- for many affluent people and countries, consumption could decrease without harming well being
+Anthropocentrism
+- belief that humans as a species have more value, significance, and moral status than other living things
+- viewing the world from an exclusively human perspective
+- research has linked this mindset to environmental harm
+- The New Environmental/Ecological Paradigm
+	- argue for a paradigm shift - away from dominant western paradigm
+	- come up with a measure called the new ecological paradigm measure which contains beliefs that they think make up the paradigm shift that we need to see
+	- in research, this mindset almost always correlates with a stronger pro-environmental paradigm
+	- Dominant paradigm (DP)
+		- humans are fundamentally different from all other creatures on Earth, over which they have dominion 
+			- humans deserve to rule over the rest of nature
+		- the world is vast and provides unlimited opportunities for humans
+		- the history of humanity is one of progress; for every problem there is a solution, and thus progress need never cease
+			- human technology will overcome environmental problems
+	- NEP
+		- humans have exceptional characteristics, but they remain one among many species interdependently involved in the global ecosystem 
+			- all things on this planet are connected as part of a larger ecosystem, including human beings
+		- Humans live in and are dependent upon a finite biophysical environment which imposes restraints on human affairs 
+			- the earth is like a spaceship with very limited room and resources
+		- Purposive human actions have many unintended consequences
+			- overconsumption is posing a serious risk to humankind and life on planet Earth
+		- What's new about the NEP?
+			- diversity and place specificity along indigenous cultures (heterogenous in many ways with many threads of commonality - interdependence on other animals and the environment)
+			- avoid simplified representations
+Psychological connection with nature
+- "Oneness with nature"
+- Connectedness to nature scale
+	- About being in community with nature, belonging to a community which involves nature
+	- Correlates with self reports of:
+		- time spent in nature
+		- pro-environmental behaviour
+		- more likely to self-describe as environmentalists
+		- higher scores on perspective taking
+- Nature relatedness scale
+	- "I have this relationship with nature the same way i have relationships with other people"
+	- Feeling connected to all living things and the earth
+	- Feeling not separate from nature but a part of it
+	- Even in the middle of the city, I notice nature around me
+	- Correlates with self-reports of
+		- Frequency outdoors, in nature
+		- Vegetarianism
+		- organic purchases
+		- environmental organization membership
+		- self-definition as environmentalist
+- Identification with nature scale
+	- when we identify with groups we tend to think more in terms of group interest
+	- Categorizing the self at the level of the natural world
+	- Based on a social identity approach
+	- measured with items like:
+		- having a lot in common with other species
+		- feeling strong ties to other parts of nature
+		- often thinking about the idea that I am part of a larger ecosystem
+	- Predicts:
+		- self-reports of private sphere and public sphere pro-environmental behaviour
+		- observed behaviours
+			- donating to environmental organization
+			- writing a letter to politicians
+- Meta-analysis: Nature connection & PEB (pro-environmental behaviour)
+	- found a significant positive relationship
+	- our intentions and values significantly predict our behaviours
+- Tam et al causal evidence
+	- 50 undergrads in Singapore who had to make posters to increase pro-environmental behaviour then answered questions about their own environmental beliefs
+	- coded the level of anthropomorphizing that was done in the posters
+	- when measuring pro-environmental intentions people who anthropomorphized the environment in their posters had stronger pro-environment intentions
+	- anthropomorphizing content -> led people to feel a stronger sense of connection to nature -> increase environmental activist intentions
+- Part 1 summary
+	- seeing humans as a part of (not superior to) nature predicts pro-environmental behaviour
+	- how does identification with nature develop?
+		- anthropomorphizing
+	- are there different ways of identification with the natural world, and do those differences matter?
+		- humility vs superiority
+		- sense of interdependence with nature
+Ecopsychology
+- Underlying assumption within the field that connection to natural world is important for psychological, physical, and ecological well-being
+
+Connecting to nature and well-being
+- Exposure to, contact with, or immersion in natural environments
+	- exposure to nature promotes well-being
+	- meta analysis looking at exposure to natural environmental and well being > correlation with increasing positive mood and decreasing negative mood
+	- **biophilia hypothesis**: theory that we natural respond positively to wild and natural settings; feeling more at home in natural environments
+	- **Attention restoration theory**: our mind gets to take a break and attend to things in the environment without much effort
+	- Fascination: important to our connection in natural settings may be dependent on fascination
+		- attention being drawn in in a way that isn't effortful
+	- Self-expansiveness through Awe
+		- experience we have when something is too much for us to take in
+		- usually experienced in a positive way
+		- loss of the individual self; individual self feeling a part of something much larger
+	- Sense of meaning people get in natural environments
+	- Experience of natural settings as spiritual and sacred
+- Psychological connection with nature
+	- connectedness to nature has been correlated to subjective vitality (sense of being alive and) and meaningfulness
+	- Unequal to green space
+		- people with lower incomes and racialized minorities have less access to urban green space
+- Pro-environmental behaviour
+	- the way we might behave for the benefit of the natural environment
+	- recognizing ecological threat increases frequency of PEBs which increases life satisfaction (reduces discomfort from ecological threat)
+	- PEBs most strongly related to life satisfaction
+		- local environmental activities
+		- buy food from farmer's markets
+		- talk to children about enviro issues
+	- PEBs most weakly related to life satisfaction
+		- turn off lights when leaving a room
+		- use recycling bins
+		- use public transit or carpool
+		- do full loads of laundry
+part 2 summary
+- well0being can be improved or maintained by connecting with nautre
+	- exposure, time in nature
+	- identification/connection
+	- pro-environmental behaviour
+
+
+
+- making billionaires feel connected to their community
+	- Greek times had the most wealthy contribute to festivals etc.
