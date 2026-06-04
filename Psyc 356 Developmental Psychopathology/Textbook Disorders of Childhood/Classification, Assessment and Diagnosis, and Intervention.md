@@ -1,0 +1,58 @@
+Classification
+- A system for describing important categories, groups, or dimensions of disorder
+- Utility of classification
+	- Research unity: ensures researchers share common understanding of disorders to develop theories, explain hypotheses, and recruit participants
+	- clinical utility: helps like behavioural patterns with specific clinical presentations, suitable treatments, and prognosis
+- Two main types of systems:
+	- Categorical classification (top down)
+		- identifies sets of co-occurring symptoms understood as distinct disorders
+		- Tied to medical model:
+			- disorders are categorical
+			- disorders are associated with constitutional dysfunction
+			- disorders are endogenous (characteristic on an individual rather than resulting of individual-environment interactions)
+	- Dimensional (bottom-up)
+		- uses statistical techniques to group distresses into meaningful dimensions
+		- assumes all children fall somewhere along these dimensions, reflecting differences in degree rather than kind
+		- Achenbach's system (ASEBA)
+- Core measurement concepts
+	- reliability: consistency of results
+		- inter-rater
+		- cross-time
+	- validity: accuracy of the information
+		- internal validity: etiology and core symptom patterns
+		- external validity: real-world implications for the disorder
+- Dimensional categories
+	- internalizing: overcontrolled behaviours like anxiety, social isolation, and somatic complains
+	- externalizing: under controlled behaviours like opposition, defiance, and aggression
+- Real-life challenges
+	- heterogeneity
+	- comorbidity
+	- transdiagnostic symptoms: patterns of thought or behaviour that cut across traditional diagnostic boundaries
+Assessment and Diagnosis
+- Types of assessments
+	- Psychodiagnostic: use of interviews and rating scales to reach diagnosis
+	- Psychoeducational: uses intelligence and achievement tests to find strengths, weaknesses, and potential learning disorders
+	- Neuropsychological: focuses on cognitive, memory, and executive functioning to determine dysfunction and prognosis
+- The clinical interview
+	- purpose: build rapport, gather history, establish reason for referral
+	- developmental considerations: for children, psychologists should use play, drawing, and age-appropriate language. its important to go slow, be specific, and normalize difficult topics
+- Behavioural observations
+	- noting how a child greets the clinician, their conversation style, self-awareness, motor concerns, and attention levels
+	- ABS of assessment:
+		- observing antecedents (triggers)
+		- behaviours
+		- consequences (what maintains behaviour)
+- Standardized testing
+	- intelligence: measures cognitive ability with a normative mean of 100 SD 15
+	- Academic: measures school performance compared to peers
+	- Rating checklists: broad or disorder-specific
+		- parent and child reports often diverge, showing better agreement on externalizing than internalizing problems
+	- Projective measures: based on psychodynamic theory, where individuals attribute characteristics to ambiguous stimuli
+Intervention
+- Case conceptualization 5P model
+	- Presenting problem: current difficulties affecting the person's life
+	- Predisposing factors: risk factors that put a person at risk for a disorder
+	- Precipitating factors: events that triggered onset of current difficulties
+	- Perpetuating factors: maintenance or reinforcement of current problem
+	- Protective factors: strengths or supports that mitigate the disorder's impact
+	- 

@@ -13,13 +13,110 @@ Role of Theory in Developmental Psychology
 	- atypical white matter structures and low myelination are also notable in children with disorders
 	- important to understand roles of neurotransmitters in central nervous system function
 		- inhibitory, excitatory, modulatory, neurotrophins (growth)
-Brain growth and development in environmental contexts
-- Slow, long brain development in children allows for species-expected collaboration between child and parent in the co-construction of the human brain
-- sensitive/critical periods in brain development are spans of time when environments have especially powerful/enduring impacts
-- we expect differences in brain structure and function between typically and atypically developing children, but there are differences within groups as well
-- When facing early adversity, plasticity allows for better outcomes following positive and enriched environmental experiences 
-- A balance between stability and plasticity is critical
-	- one outcome of normal development is to stabilize the neural networks which are initially sculpted by experience. The brains intrinsic potential for plasticity is actively dampened to allow for stability
-Brain-body behaviour processes
-- all bodily systems interact during development and with the environment
+Physiological Models
+- Brain growth and development in environmental contexts
+	- Slow, long brain development in children allows for species-expected collaboration between child and parent in the co-construction of the human brain
+	- sensitive/critical periods in brain development are spans of time when environments have especially powerful/enduring impacts
+	- we expect differences in brain structure and function **between** typically and atypically developing children, but there are differences **within** groups as well
+	- When facing early adversity, plasticity allows for better outcomes following positive and enriched environmental experiences 
+	- A balance between stability and plasticity is critical
+		- one outcome of normal development is to stabilize the neural networks which are initially sculpted by experience. The brains intrinsic potential for plasticity is actively dampened to allow for stability
+- Brain-body behaviour processes
+	- all bodily systems interact with the environment during development
+	- In physiological models explanations for typical and atypical development depend on understanding genetic variants, and the processes by which multiple genetic and non genetic effects lead to physiological and psychological outcomes > estimate heritability of characteristics
+	- epigenetics is focused on the activity of a gene rather than its presence
+	- rather than a correspondence between a particular genetic variant and any one disorder, there appears to be a more limited set of risk alleles that impair general processes across many disorders
+		- for some disorders a specific genetic liability becomes more apparent over time
+	- Polygenetic models: emphasize that **many genes have small effects** and attempt to account for the multiple types of genetic variants and processes that influence the development of both mild and severe forms of disorders
+	- Diathesis-stress model: atypical brain structure, function, or development does not by itself lead to disorder, rather predispositions (neurological damage at birth, genetic risk) in combination with physiological/environmental stress lead to the emergence of a disorder
+		- calls attention to the lack of one-to-one correspondence between genotype and phenotype for much psychopathology
+		- dandelion/orchid children
+- Max
+	- physiological perspective:
+		- conceptualize Max's difficulties due to atypical brain function
+		- underarousal of key parts of his brain > lack of focus and sustained engagement > impulsive behaviour
+		- consistent with ADHD - not typical of other children his age
+		- first choice for intervention is physiological treatment - stimulation medication (ritalin, adderall, concerta)
+- Aisha
+	- physiological perspective
+		- note her father's history of clinical depression leaving her with a potential genetic vulnerability
+		- her treatment might start with antidepressant medication and psychoeducational information + support
+Psychodynamic Models
+- Include classic psychoanalytic explanations, socially oriented explanation, object-relation theories
+- Past central themes:
+	- impact of unconscious processes on typical and atypical personality development
+	- conflicts among processes and structures of the mind (id, ego, superego)
+	- stages of development, with different ages associated with distinctive emotional, intellectual, and social challenges
+	- the lasting impact of more successful resolutions of stage-related challenges on later outcomes
+- Emphasizes a fixation-regression model: suggests that individuals who fail to work through development issues become stuck in the past
+	- disorders themselves rooted in traumas/conflicts of early childhood development
+	- Anna Freud and Melanie Klein made special use of play and art to bring repressed traumas and unconscious conflicts into therapeutic awareness
+- Contemporary themes:
+	- unconscious cognitive, affective, and motivational processes
+	- mental representations of self, others, and relationships
+	- the meaningfulness of the individual experiences
+	- a developmental perspective focused on the origins of typical and atypical personality in early childhood
+- mentalizing: the capacity to understand others and oneself in terms of internal mental states
+- Max
+	- psychodynamic perspective:
+		- concerned that the management of early developmental challenges have compromised Max's current adjustment
+		- intervention may explore unresolved childhood conflicts through play, art, games, imagination and is likely to include family sessions
+- Aisha
+	- psychodynamic perspective
+		- concerned about whether the emotional and physical changes associated with early adolescence have stirred up conflicts about intimacy and sexuality
+		- struggling with basic sense of insecurity 
+		- early and ongoing experiences with her father's inconsistent availability may contribute to her wariness in relationships and increasingly negative expectations about her ability to manage educational and social needs
+Behavioural and Cognitive models
+- focus on individuals' observable behaviour within specific environments
+- environmental variables have powerful effects on the development of personality and psychopathology
+- behavioural models 
+	- focus on the core concepts of learning theories and share a string empirical foundation with them - propose that both typical and atypical behaviours are gradually acquired via learning
+		- important concept is the construct of reinforcement
+	- asserts that psychopathology is the result of learning going awry, reinforcement of maladaptive behaviour, and lack of opportunity to learn/adapt
+	- treatments focus on unlearning and relearning
+- cognitive models
+	-  focus on the components and processes of the mind
+	- Jean Piaget's stages of cognitive development
+	- emphasize evolutionary theory, the social context of early cognition, qualitative and quantitative change across development, and connections to education and academic skills
+- Max
+	- behavioural and cognitive perspective
+		- difficulties understood as a reflection of maladaptive learning and/or cognitive dysfunction
+			- ex. inappropriate classroom behaviours, although negative in tone, are positively reinforcing because of the adult attention and proximity they generate
+		- treatment plan would involve a cognitive-behavioural emphasis on more extensive analysis of situational cues and more deliberate examination of the likely consequences of problem behaviours + targeting overly negative attitudes and expectations
+- Aisha
+	- behavioural and cognitive perspective
+		- social difficulties conceptualized as rooted in her misinterpretations of the intentions of others > rejection has a negative effect on Aisha's self-esteem and on her belief in her ability to influence the environment positively
+		- these cognitive errors lead to avoidant behaviours which minimize her stress in the short term and reinforce her to isolate
+		- interventions seek to identify the cognitive errors Aisha is making and teaching her new ways to interpret and think about social situations
+			- devise a schedule of positive reinforcements and rewards for increasing more adaptive and healthy behaviours
+Humanistic and positive psychology models
+- emphasize personally meaningful experiences, innate motivations for healthy growth, and the child's purposeful creation of self
+- psychopathology is usually linked to interference with/suppression of the child's natural tendencies to develop an integrated sense of self, with valued abilities and talents
+- intervention involves the (re)discovery of internal resources and provision of external support for self-organization, self-direction, and self-righting capacities
+- broaden-and-build theory of positive emotions: explores the ways in which positive experiences lay the groundwork for development of health and resilience across the lifespan
+	- everyday positive emotions can initiate a cascade of psychological processes that carry enduring impact on people's subsequent emotional well-being - good emotions increase the odds people will feel good in the future
+- fosters youth strength, plasticity, and resilience in development
+- Max
+	- Humanistic perspective
+		- activity-centered learning to a teacher-organized approach is a big shift for Max who has struggled to find his place as the emphasis on academic achievement has become more prominent
+			- hard to related what he is expected to learn with what he sees as his abilities and talents
+		- Max's problems may reflect a dissatisfaction with himself and his feelings of incompetence
+		- interventions focus on increasing Max's chances for pleasure and mastery in school and build on his specific strengths
+- Aisha
+	- Humanistic perspective
+		- new school setting + increased pressure from her mom and peers to identify special interests and goals for her future
+		- Aisha has come to regard herself and not unique or without possessing talents leading to sadness and withdrawal
+		- Psychotherapeutic challenges require Aisha take charge of planning, decision making, and her own happiness which will be supported by clear expressions of encouragement and affirmations that she is capable, competent, and qualified
+Family Models
+- Propose the best wat to understand the personality and psychopathology of children is to understand their family dynamics
+- Families are the first setting for children's experiences and parents have a set of responsibilities to the child, failing any of which can have developmental consequences
+- Research can focus on parental characteristics affecting children's adaptation and the impact of family dynamics (number of parents)
+	- parent-child relationships
+	- child-sibling relationships
+- effect of cultural and parental beliefs/practices on child outcomes
+- relationships outside families are also related to immediate and long-term consequences
+- friendships provide opportunities for companionship, acceptance, and intimacy, and their absence rejection, conflict, and withdrawal
+Sociocultural models
+- impact of minority status and poverty on development/how disadvantage affects people
+- Results suggested that, across diverse countries, the majority of variance in well-being was predicted by child factors such as gender and personality characteristics. Country-level factors had less impact on well-being
 - 

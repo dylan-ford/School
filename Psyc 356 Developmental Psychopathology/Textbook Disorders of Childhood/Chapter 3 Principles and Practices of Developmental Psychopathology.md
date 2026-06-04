@@ -1,0 +1,72 @@
+Developmental Pathways, Stability, and Change
+- disorders are understood as delay or dysfunction, highlighting the difficulties of a particular child at a particular point in time
+	- Adjustment and maladjustment are points along a lifelong map and can change
+		- change is possible at many points
+		- change is constrained or enabled by previous adaptations
+	- equifinality: sets of differing circumstances that lead to the same diagnosis
+	- multifinality: sets of similar beginnings that lead to different outcomes
+	- a child's ability to develop new friendships depends on their self-image, social skills, and earlier successful experiences in elementary school
+	- continuity/discontinuity: overall group level of a characteristic or behaviour
+	- stability/instability: relative ordering of individuals compared to peers
+	- Coherence: reflects belief that beginnings may be logically and meaningfully linked to outcomes if we carefully evaluate the variables that lead to stability as well as those that lead to change
+Competence and Incompetence
+- Competence: reflects effective functioning in important environments
+	- involves:
+		- children's skills, talents, personality, self efficacy
+	- embedded in cultural, historical, and developmental contexts
+	- all children display domains of competence which involve their skills and achievements + domains of incompetence; children's strengths need to be considered during assessment, diagnosis, and formulating a treatment plan
+	- Areas of competence:
+		- academic competence
+		- behavioural
+		- social
+		- (in adolescence):
+			- romantic competence
+			- job 
+		- competence for children in one area is more likely to correlate is competence in other areas
+		- in adolescence the overlap of competence wanes with each area being less correlated with each other
+		- Some models are less focused on domains and more on individual characteristics that contribute to competence across circumstances
+			- Positive youth development model: identifies multiple dimensions of healthy adjustment: the strengths of competence, confidence, character, caring, connection, and contribution
+Risk and Resilience
+	- Risk: increased vulnerability to disorder
+		- factors: individual, family, social characteristics
+		- risk factors increase vulnerability in nonspecific ways (to many disorders) and specific risk (to 1 particular disorder)
+			- ex. specific risk: inactive liver enzyme that interferes with the metabolism of phenylamine is associated with a particular type of intellectual developmental disorder
+			- ex. nonspecific: poverty
+		- Individual risk factors: child focused; genetics and physiological processes, cognitive and behavioural predispositions, temperament and personality
+		- Family risk factors: associated with a child's caretaking environment; parental characteristics, punitive styles, family conflict, parental employment
+			- Maternal psychopathology noted as a nonspecific risk factor
+		- Sociocultural risk factors: those associated with the child's larger environment; peers, schools, neighbourhood, SES, racial background
+			- poverty: food insecurity, lack of access, increased environmental stressors - noise, chaos, crowding -> ^ stress
+		- Many experts conclude the number of risk factors children face is more important than the specific type of risk
+			- co-occurrences of ACEs are more common the more you have
+		- Differential impact theory: 
+			- idea that changes to the environment cause individuals to change and that these changes depend on the quality of the psychological, sociocultural, and economic resources provided by the environment, balanced by the quality and quantity of the individual's exposure to risk
+				- ex. positive beliefs and personality characteristics may be helpful at lower levels of risk exposure, but their protective effects lessen as environmental and sociocultural risks increase
+	- Resilience: adaptation despite adversity
+		- protective factors: individual, family, social characteristics
+		- 3 types:
+			- children and adolescents with many risk factors but have good outcomes
+			- children and adolescents who continue to display competence when they're experiencing stress
+			- children and adolescents who display good recoveries following stress or trauma
+		- resilience isn't a trait but a dynamic process, a capacity that develops over time; most children display some strengths and difficulties in the face of adversity
+			- resilience is also embedded in certain contexts, with it being more present in some than others, potentially due to the presence of allies
+		- Types of protective factors
+			- promotive effects: characteristics and experiences that support positive development and adaptation for children and adolescents **regardless of risk level**
+			- protective effects: support positive development for children and adolescents in the presence of **risk**
+			- Children with happier emotional dispositions tend to do better in the face of stress and adversity
+			- Genetic variants (serotonin transporter promoter gene)
+			- Family factors - warmth, support, family cohesion
+				- Resilience relies on relationships
+		- Patterns and pathways of protective factors
+			- reduce impact of risk
+				- reduce further exposure, alter meaning of exposure
+			- reduce negative chain reactions which increase further risk exposure
+				- intervening before additional negative events occur
+			- serving to establish or maintain self-esteem
+				- understanding the role of personality in moderating distress and dysfunction - not viewing dyslexia as evidence of personal inferiority by meeting other kids with dyslexia
+			- opening up opportunities for improvement or growth
+			- Implicit in the deficit approach is the assumption that youth from high-risk backgrounds are broken and need to be fixed” (Ellis et al., 2017, p. 561). The adaptation-or strength-based approach proposes that children and adolescents who grow up in high-risk, adverse, or harsh and unpredictable environments are “stress-adapted” rather than vulnerable
+Research Strategies in Developmental Psychopathology
+- cross-sectional: collection of data at a single point in time, with comparisons made among groups of participants
+- Longitudinal: ongoing collection of data from the same group of participants
+- Developmental cascades: the culminative consequences for development of the many interactions and transactions that result in spreading effects across levels, among domains at the same level, and across different systems or generations
