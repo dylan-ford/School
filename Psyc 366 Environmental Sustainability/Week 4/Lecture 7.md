@@ -1,0 +1,30 @@
+Inequality and the environment - is inequality bad for the environment?
+- Boyce finds support for 2 hypotheses:
+	- inequality affects distribution of environmental harm
+		- environmental harm disproportionately affects already disadvantaged groups
+	- inequality affects the magnitude of harm
+		- the more inequality there is, the more environmental harm there is
+		- link between how we treat environment and how we treat each other
+- An experimental test (Cozzolino)
+	- students competed in a math test to compete for raffle tickles
+	- the conditions were biased so some participants or imaginary students would get more/less tickets as a baseline
+	- High SES encourages people to be less: generous, trusting, helpful, compassionate, collectivist
+		- similar effects when you induce a subjective sense of social class
+	- participants primed with higher or lower power over others
+		- people primed with high power about 3 more likely to write E on forehead backwards (less quick to take perspective)
+- Inequality in income predicts higher emissions
+- Ecofeminism
+	- link between sexism/patriarchy and exploitation of the natural environment
+	- environmental harm and sexism reinforce each other
+	- sexism intersects with other systems of oppression
+	- Argument
+		- Social construction of gender views women as emotional, nurturing, closer to nature
+		- Masculinity is characterizes as strong, independent, domination of nature
+		- Patriarchy: gives men as a group more status and influence relative to other genders
+			- leads to broader societal values reflecting these stereotyped male characteristics
+	- Women's status and CO2 emissions
+		- across 91 countries countries with higher gender inequality had higher CO2 emissions
+			- controlling for GDP and military expenditure
+	- women are underrepresented in legislative bodies across the world
+		- in European parliament women were more likely to vote for pro-environmental legislation than men, even when controlling for political ideology
+	- 
