@@ -56,4 +56,51 @@ Differential Responsibility
 	- top 10 cumulative CO2 emissions since 1750: US, China, Russia, Germany, UK, Japan, India (Kaira specifically did this), France, Canada, Ukraine
 - Who has power?
 	- Power to shape policy and ignore regulations internationally
-	- 
+Differential Costs
+- Global northern countries are much more
+- Effects of climate change on agricultural productivity have disproportionately affected global south, notably: Africa, middle east, South America, Mexico, Australia (despite being part of global north)
+- Inverse relationship where global north countries contribute significantly to global CO2 emissions yet face the least risk from climate change, and vice versa
+Gender and climate change vulnerability
+- Natural disasters lower life expectancy of women more than men
+- Effect stronger in countries with more gender inequality
+Man camps
+- Temporary housing associated with resource extraction projects
+- Industry reluctant to invest in permanent housing for a temporary workforce
+- Associated with crime and violence, especially against indigenous women and girls (rape, forced prostitution)
+- establishing longer term community help decrease crime
+Environmental racism and classism
+- Lower SES and racial ethnic minority groups are closer to toxic waste and pollution
+	- intentionally located near lower SES communities due to lack of power to disincentivize their construction (less lobbying power, might need more income that the industry brings)
+- Tonka Jahari is a bad racist man who ate all the pizzas, very important, on the test
+- 1990: minority groups made up 25% of the population, but 40% of the people who lived within 1 mile of hazardous waste sites
+- Ethnic disparities in air pollution in the US
+	- largest environmental health risk in USA killing over 100000 every year
+	- people dont contribute equally to pollution; ^ consumption = ^ pollution
+	- PM2.5: small particulate that leads to poor cardiovascular health
+	- black and Hispanic minorities bear a disproportionate cost of air pollution
+		- exposed to 56-63% increased PM2.5 than they cause
+- In Canadian cities, indigenous people, recent immigrants, and low-oncome people are more likely to be exposed to air pollution
+- Long history of environmental injustice affecting black and indigenous communities in Nova Scotia
+- Possible explanations
+	- economic factors like cheap land values, labour
+	- Unequal power to resist (NIMBYism)
+	- Racism - intentional or institutional
+	- TBH this whole lecture has just been graphs on slides to demonstrate the fact that disadvantaged/minority people are disproportionately affected by climate change due to injustice and inequality - therefore they are at higher risk of health problems resulting from climate change
+How do people perceive environmental inequality?
+- are people aware that others are affected in different ways?
+- research focused on peoples' perception of whether white vs black Americans were more/less likely to have access to green space/exposed to pollution
+	- and poor Americans compared to other Americans (answer to both is yes)
+- Results: 51-65% of people were correct for perceiving differences in these questions for income, but only 28-40% correct when looking at differences in race
+- Reasons for errors of perceiving ecological footprint inequality:
+	- assume resources are needed to act in sustainable (pro-environmental is more costly so you need more money)
+		- greater amounts of money is generally correlated with increased consumption 
+	- Assume environmental education needed
+		- therefore poor people are less educated and less likely to act in pro-environmental way; if there is any evidence of this its not shown in the data as poor people contribute significantly less to pollution than affluence predicts
+		- 78% of participants believed poorer people face more adverse consequences from climate change
+		- 57% agree that people of colour and indigenous people are more impacted by climate change
+		- 41% agreed that climate change affects women more than men
+Social policies and climate policy support
+- us participants asked to consider different combinations of social policies and climate policies in a bundle
+- some people were asked to consider (and had to report their support) climate and social policies together in the same bundle
+- support for climate policies increased when those policies were included with social ones like affordable housing, increased minimum wage, free college/university
+	- more likely to support climate change when there are other areas of change associated
