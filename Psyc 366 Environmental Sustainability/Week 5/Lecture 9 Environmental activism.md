@@ -5,3 +5,26 @@
 	- recruitment
 	- political pressure through protest, petitions, letters, demonstrations
 	- organize people, logistics of communication, planning, decisions, fundraising
+	- civil disobedience
+	- direct action: intervening directly
+		- physically interposing pipeline construction
+- What psychological processes might encourage or discourage participation in environmental activism?
+	- negative stigma and portrayal by media/powerful parties contributes to discouragement of environmental activist engagement
+	- help people understand why activists are engaged in the actions that they are; provide context helps people not view activism in negative terms
+	- responses to activism depend on perceptions of fairness
+		- study compared disruptive vs non-disruptive activist behaviour by having participants read about each
+		- manipulated presence of corruption which preceded the activism
+		- corruption present = support for disruption, corruption present = non-disruption supported, disruption condemned
+	- *perception of environmental threats that will cause enormous suffering leads to engagement in or support for environmental activism
+	- Social identity theory
+		- people have collective identities, which influence how we understand ourselves (at group vs individual level)
+		- high identification with activist groups is a strong predictor activism
+			- willing to sacrifice personal interests
+		- politicized identity
+			- an identity that defines itself as engaged in a collective struggle to create change
+				- predicts activism more than other group identity
+			- collective identity recognizes that there are conflicts of interests and opposing forces in other groups - collective struggle
+			- this collective struggle takes place within a larger social context
+				- government, corporations, general public, environmental activists
+			- desire to create change based on the perception of injustice with the goal of creating justice through intervention
+	- 
