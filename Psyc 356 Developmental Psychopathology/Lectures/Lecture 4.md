@@ -101,10 +101,70 @@ Psychopathologies
 			- significant nutritional deficiency
 			- dependence on enteral feeding or oral nutritional supplements
 			- marked interference with psychosocial functioning
-Disruption of processes
-- 
-Attachment
-- Types of attachment
-Temperament
-- Approaches to temperament
-- Development of temperament
+		- developmental course
+			- feeding involves integration and coordination of internal processes and relational processes
+			- struggles between caregiver and child in regards to feeding it can cause issue in child's eating habits (cause anxiety, frustration in caregiver); impacts parent-child relationship
+		- etiology
+			- feeding difficulties may result from developmental delays, genetic conditions, abnormalities
+			- some infants may be less sensitive to hunger > give unclear signals to caregivers
+			- temperamental differences - reactivity to new stimuli, negative responding to tastes/textures
+			- coercive, indulgent, controlling, neglect from parents have impacts
+		- diagnosis
+			- assessments depend on good therapeutic alliance
+			- recognizing role of parental factors does not equate with blaming parents; primary goal is improving child's well-being
+			- detailed feeding histories are obtained, and diagnostic tests of physiological functioning (swallowing) are common
+		- intervention 
+			- emergent research shows evidence for CBT-AR for avoidant restrictive food intake disorder (clinical trials still ongoing)
+			- gradual exposure to types of food chill intakes
+	- Sleep-wake disorders
+		- insomnia, disorders of arousal (sleep terrors or sleepwalking), nightmare disorder
+		- developmental course
+			- some resolve on their own over time
+			- night waking problems tend to decrease over time; sleep onset problems remains table or increase
+		- etiology
+			- medical condition
+			- parental factors (how parents act around bedtime)
+			- sociocultural factors - impacts risk
+		- assessment
+			- general overview of health and development
+			- sleep diaries
+			- sleep studies
+		- intervention
+			- behaviour therapies, modeling how to go to bed, creating healthy habits around bedtime depending on parental influence in contribution to sleep disorder
+- Disruption of attachment
+	- examples
+		- reactive attachment disorder
+			- criteria
+				- consistent pattern of inhibited, emotionally withdrawn behaviour toward caregiver
+				- persistent social and emotional disturbance
+				- history of extreme insufficient care
+					- social neglect, repeated change in primary caregiver
+		- disinhibited social engagement disorder
+			- criteria
+				- pattern of approaching and interacting with unfamiliar adults
+				- history of extreme insufficient care
+	- developmental course
+			- role of caregiving is primary
+			- not all children in suboptimal care develop these disorders; other factors must be present for the development of disorders of attachment
+			- differential susceptibility of children
+	- assessment
+		- naturalistic data collection
+	- intervention
+		- easier to prevent than intervene
+- Intellectual developmental disorder
+	- impairments in BOTH general and adaptive intelligence
+	- happens during brain development
+	- disorder that lasts across lifespan
+	- intelligence involves comprehension of complex ideas, comprehending surroundings, think abstractly, reason, plan, and learn from experience
+	- conceptual adaptive intelligence
+		- basic academic language and literacy skills
+		- numeracy, money concepts
+	- social adaptive intelligence
+		- interpersonal skills
+		- gullibility & naivity
+		- ability to follow rules
+		- understanding safety of situations
+	- practical adaptive intelligence
+		- personal care 
+		- schedules and routines
+	- 
