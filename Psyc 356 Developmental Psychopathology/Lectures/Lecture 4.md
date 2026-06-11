@@ -1,0 +1,110 @@
+Three developmental processes/tasks of early childhood
+- Physiological
+	- sleeping/eating
+	- infants undergo significant physiological adjustment and development after birth:
+		- adjustment to life outside womb
+		- communication of feelings and needs
+		- active exploration of the environment
+- Attachment
+	- bond between infant and caregiver
+	- infants are constantly exchanging emotions and actions with their caregivers
+	- infants form emotional bonds with their caregivers, known as attachment
+	- our early relationships set the stage for our internal working model of how relationships work
+	- attachment helps to ensure survival and protection of the infant
+		- provides a safe haven; security in stressful times
+		- allows for proximity maintenance: maintains closeness to caregiver to be  protected from danger
+		- establishes a secure base that the child can explore the world from and return to
+	- attachment is shaped by many factors including:
+		- caregiver sensitivity, availability, and responsiveness
+		- this can impact our beliefs about ourselves and others
+		- most important factor is how the parent responds when the child is stressed (stronger weight)
+	- Attachment can be characterized as:
+		- secure: describes internal working model where you see yourself as worthy and others as reliable caregivers
+		- insecure: sees self as unworthy of care, and see others as unreliable caregivers
+			- resistant (anxious/ambivalent)
+				- inconsistency of caregiver
+				- child is unsure about themselves
+				- high vigilance about parental availability
+			- avoidant (anxious/avoidant)
+				- related to inadequate care
+				- excessively controlling parents
+				- children appear emotionally constricted and distant; children see themselves as less worthy of care
+				- don't view caregivers as secure; explore environments more independently
+			- disorganized
+				- caregiver perceived as frightening, malicious, long-term separation
+				- children express undirected behaviours, freezing, fear, apprehension
+	- How attachment develops (5 factors)
+		- emotional availability
+		- loss and trauma history
+		- parental psychological wellbeing
+		- parent attachment history
+		- parental sensitivity
+	- summary
+		- early childhood years lay foundation for how we see ourselves in the world
+		- important for socioemotional development and overall wellbeing
+		- process coincides brain maturation within brain
+		- familial and sociocultural influences (culture, SES, traumas)
+		- psychopathologies
+- Temperament
+	- child's organized style of behaviour
+	- Temperament: early-emerging basic dispositions in the domains of: activity, affectivity, attention, and self-regulation. Product of interactions among genetic, biological, and environmental factors across time
+		- Reactivity
+			- infant's excitability and responsiveness
+		- Regulation
+			- What infants do to control their reactivity
+		- Surgency:
+			- sociability and positive emotionality
+		- Negative affectivity:
+			- predispositions to experience fear and frustration
+		- Effortful control:
+			- attempts to regulate stimulation and response
+	- categorical approaches to temperament
+		- profiles consist of traits that form a profile to provide meaningful information above and beyond the traits/dimensions themselves
+		- 4-6 temperament profiles have been identified (in textbook):
+			- Easy baby
+				- typical reactivity
+				- typical negative affect
+				- typical regulation response
+			- difficult baby
+				- high reactivity
+				- high negative affect
+				- challenges in self-regulation
+			- slow-to-warm baby
+				- high reactivity
+				- high fear
+				- challenges in self-regulation
+			- no name
+				- high reactivity
+				- no negative affectivity
+				- range of regulation responses
+	- Development of temperament
+		- environment x genetics x biology interactions
+		- Environment
+			- parental characteristics and practices (authoritative, authoritarian, permissive, uninvolved)
+				- warmth: connected to child's needs for affection, soothing, protection belonging, efficacy
+				- positive and negative control: connected to child's needs for autonomy and self-regulation
+		- Biological
+			- reactivity:
+				- low arousal of limbic structures causes lower reactivity
+				- higher heart rate elevation in response to stress, higher cortisol levels
+			- Regulation
+				- Anterior Cingulate Cortex: monitors and evaluates emotional responses (over/underactive)
+				- Lateral prefrontal cortex: recruits higher order regulatory processes
+Psychopathologies
+- for some children, temperament characteristics and attachment patterns are the roots of later child and adult psychopathology
+- risk is conceptualized as one or more factors that make it likely develop or experience psychopathology
+- Disruption of physiological processes
+	- ARFID: avoidant/restrictive Food Intake Disorder
+		- eating or feeding disturbance
+		- manifested by persistent failure to meet appropriate nutritional and/or energy needs associated with one+ of the following
+			- significant weight loss
+			- significant nutritional deficiency
+			- dependence on enteral feeding or oral nutritional supplements
+			- marked interference with psychosocial functioning
+Disruption of processes
+- 
+Attachment
+- Types of attachment
+Temperament
+- Approaches to temperament
+- Development of temperament
