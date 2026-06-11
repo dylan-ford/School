@@ -1,0 +1,7 @@
+- Environmental activism: action to create pro-environmental social change
+	- changing something about social structure, policy; collective action
+- Varieties of environmental activism:
+	- education, persuasion
+	- recruitment
+	- political pressure through protest, petitions, letters, demonstrations
+	- organize people, logistics of communication, planning, decisions, fundraising
