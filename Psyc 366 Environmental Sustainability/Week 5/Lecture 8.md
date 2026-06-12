@@ -1,20 +1,3 @@
-We acknowledge that SFPIRG occupies unceded Indigenous land of Coast Salish peoples. Unceded means that this land was never surrendered, relinquished or handed over in any way. We recognize that the unceded land that we occupy includes not only the SFU Burnaby Campus, but extends to the land occupied by the Vancouver and Surrey campuses of SFU as well.
-
-Based on our current knowledge*, this includes the territories of the following First Nations:
-
-- [Musqueam](http://www.musqueam.bc.ca/) (Burnaby, Vancouver, and Surrey campuses)
-- [Skwxwú7mesh](http://www.squamish.net/) [pronounced _Skohomish_] (Burnaby, Vancouver, and Surrey campuses)
-- [Tsleil-Waututh](http://www.twnation.ca/) [pronounced: _slay-wa-tooth_] (Burnaby, Vancouver, and Surrey campuses)
-- [Kwikwetlem](http://www.kwikwetlem.com/) (Burnaby and Surrey campuses)
-- [Kwantlen](http://www.kwantlenfn.ca/) (Surrey campus)
-- [Katzie](https://en.wikipedia.org/wiki/Katzie_First_Nation) (Surrey campus)
-- [Qayqayt](https://en.wikipedia.org/wiki/Qayqayt_First_Nation) [pronounced: _keh-kite_] (Surrey campus)
-- [Semiahmoo](https://www.semiahmoofirstnation.ca/) (Surrey campus)
-- [Tsawwassen](http://tsawwassenfirstnation.com/) (Surrey campus)
-    - Please note that as of March 2021, neither the Katzie nor Qayqayt nations have a website.
-
-We seek to support the varied strategies that Indigenous peoples are using to protect their land and their communities, and we commit to dedicating time and resources to working in solidarity. We acknowledge that we, as people living and working on these lands, are accountable to the laws and protocols of the people who have cared for this land since time immemorial. It is our intention to continue learning how to honour this responsibility.
-
 online review session june 19th 2-3pm (recorded)
 
 Environmental inequality and injustice
@@ -39,7 +22,7 @@ Environmental inequality and injustice
 		- increasing cost of environmentally harmful products/behaviours
 	- clean energy development
 		- southern Saami Norway
-			- building turbines on indigenous territories which interferes with reindeer pasture herding routes - reindeer herding is central to the way of life and identity of indigenous peoples there (Santa's elves)
+			- building turbines on indigenous territories which interferes with reindeer pasture herding routes - reindeer herding is central to the way of life and identity of indigenous peoples there
 		- sometimes clean energy technology isn't inherently just because its addressing climate change, as it can increase inequality and suffering of certain groups
 Differential Responsibility
 - Ecological footprint per Canadian by earnings decile: as the income spectrum increases so does hectares of ecological footprint; at the 10th deciles (highest earning) the increase is exponential
@@ -53,7 +36,7 @@ Differential Responsibility
 		- all regions show top 10% emitting significantly more than bottom 90%
 		- (personal carbon footprint include emissions from domestic consumption, public + private investments as well as imports and exports of carbon embedded in goods and services traded with the rest of the world)
 	- China emits the most CO2 than the other top 9 countries, but per person emits the 2nd least, with Saudi Arabia, Canada, Russia, and the US leading
-	- top 10 cumulative CO2 emissions since 1750: US, China, Russia, Germany, UK, Japan, India (Kaira specifically did this), France, Canada, Ukraine
+	- top 10 cumulative CO2 emissions since 1750: US, China, Russia, Germany, UK, Japan, India, France, Canada, Ukraine
 - Who has power?
 	- Power to shape policy and ignore regulations internationally
 Differential Costs
@@ -71,7 +54,6 @@ Man camps
 Environmental racism and classism
 - Lower SES and racial ethnic minority groups are closer to toxic waste and pollution
 	- intentionally located near lower SES communities due to lack of power to disincentivize their construction (less lobbying power, might need more income that the industry brings)
-- Tonka Jahari is a bad racist man who ate all the pizzas, very important, on the test
 - 1990: minority groups made up 25% of the population, but 40% of the people who lived within 1 mile of hazardous waste sites
 - Ethnic disparities in air pollution in the US
 	- largest environmental health risk in USA killing over 100000 every year
