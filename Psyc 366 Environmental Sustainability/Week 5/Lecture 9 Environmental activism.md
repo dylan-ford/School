@@ -27,4 +27,37 @@
 			- this collective struggle takes place within a larger social context
 				- government, corporations, general public, environmental activists
 			- desire to create change based on the perception of injustice with the goal of creating justice through intervention
-	- 
+	- Social identity model of collective action
+		- 3 variables of collective action
+			- central variable is politicized identity: identification with a group that is trying to do social change > collective action
+			- anger/moral outrage about injustice > drives collective action
+			- collective efficacy: through working together > collective action is possible
+		- politicizes identity can also encourage moral outrage as well as collective efficacy
+		- encapsulated social identity model of collective action flips the directionality of these variables
+			- moral outrange and collective efficacy instead galvanizing politicized identity, all 3 of which then contribute to collective action
+		- sometimes efficacy doesn't matter
+			- biggest Dutch protest ever (Oct 29, 1983) against NATO warheads on their soil; 1/25 people in the country participated
+			- protest was ultimately unsuccessful; all protestors that were interviewed had low faith in the efficacy of the protest
+			- why did they do it?
+				- may give credence to future protests
+				- sense of moral obligation
+	- knowing people involved in environmental movement greater predicts participation
+		- even controlling for environmental attitudes and beliefs
+		- effect is found for strong ties (friends, family) as well as weak ties (acquaintances)
+		- may make activism seem more normative; more likely to find out about events/be invited
+Does activism work?
+- number of local environmental organizations predicts decrease in CO2 emissions across time from local power plants
+- systematic reviews of environmental campaigns finds many are successful 
+	- 43% of campaigns successful
+	- 39% mixed
+- global climate marches the web searches for "climate change" increase
+- youth climate activists
+	- effective at changing the broader messaging around climate change; duty of care - protecting children
+	- highlighted anti-fossil fuel norms
+- what contributes to effectiveness?
+	- number of participants
+	- coordination
+	- minority influence - consistency, demonstrate lack of self interest
+	- legitimize ends and the means - that change you're trying to achieve and the methods used to get there
+		- movement that embodies and enacts the future you want to create
+	- Halsam paper 2012
