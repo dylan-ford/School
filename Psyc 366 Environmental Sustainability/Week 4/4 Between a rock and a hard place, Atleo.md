@@ -17,4 +17,4 @@
 - neoliberalism renders individuals as human capital to be deployed , ad those that fail are blamed for their own lack of education or work ethic. 
 - it produces a society that shrinks responsibilities to those that are struggling, viewing them as 'disposable' rather than citizens with inherent rights
 • What is the concept of terra nullis?
--  refers to the false premise that "unoccupied, empty land" provides a legal and theoretical foundation for the theft of indigenous lands and reources under settler colonialism
+-  refers to the false premise that "unoccupied, empty land" provides a legal and theoretical foundation for the theft of indigenous lands and resources under settler colonialism
