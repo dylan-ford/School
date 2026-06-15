@@ -3,7 +3,7 @@
 • Why is it surprising that some Indigenous peoples oppose fossil fuel projects and others become involved in them or support them?
 - Indigenous peoples are often portrayed as stereotypical caricatures which suggest they are environmentalists that always oppose development. These actions occur in the context of community survival and autonomy
 • How does Atleo explain why some Indigenous Peoples become involved in economic initiatives, even controversial ones like fossil fuel projects?
-- involvement is often a strategy for community survival ; leaders work with corporations to address poverty or exercise self-determination with rights to their territories
+- involvement is often a strategy for community survival; leaders work with corporations to address poverty or exercise self-determination with rights to their territories
 • What has been the relationship between Indigenous Peoples in Canada and environmentalists?
 - its been contentious, sometimes indigenous peoples stand with environmental activism, and sometimes they are accused of neocolonialism when their actions don't align with environmentalist approaches
 • How does “settler colonialism” differ from other forms of imperialism and colonialism?

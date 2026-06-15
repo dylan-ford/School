@@ -1,11 +1,11 @@
 • Who are the two groups described in the paper?
-- Mayanga peoples of Bosawas reserve in Nicaragua and the Anishinaabe peoples (chippewas in kettle and stony point ontario)
+- Mayanga peoples of Bosawas reserve in Nicaragua and the Anishinaabe peoples (Chippewas in kettle and stony point Ontario)
 • What is the good life, and what does that mean for the two groups?
 - The belief that Earth sustains all life when humans live in harmony with nature physically and spiritually. Recognizing the gifts of the earth and practicing sustainability to ensure resources for future generations
 • How do Indigenous knowledge systems view the natural world?
-- View it as an interdependent network of beings; as an all encompasing organism with its own intrinsic rights
+- View it as an interdependent network of beings; as an all encompassing organism with its own intrinsic rights
 • In what ways are the two groups’ traditional relationships with land and water affected by colonization?
-- Colonization imposed western norms which are anthrocentric and view nature as subservient to humans. This has led to rapid deforestation for the Mayagna peoples (food insecurity) and water insecurity for the Anishinaabe peoples, loss of decision-making power, and pollution of sacred water-sources 
+- Colonization imposed western norms which are anthrocentric and view nature as subservient to humans. This has led to rapid deforestation for the Mayanga peoples (food insecurity) and water insecurity for the Anishinaabe peoples, loss of decision-making power, and pollution of sacred water-sources 
 • Given their strong connection to the land, are all Indigenous cultures the same?
 - Do indigenous cultures do not share a homogenous identity despite their similar strong connections to nature. Identities are shaped by environmental context, and unique histories with colonialism
 • How do the Mayangna think of other species (like animals they hunt animals) that they
