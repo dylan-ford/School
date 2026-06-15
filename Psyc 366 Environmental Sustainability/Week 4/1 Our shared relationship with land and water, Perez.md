@@ -1,12 +1,23 @@
 • Who are the two groups described in the paper?
+- Mayanga peoples of Bosawas reserve in Nicaragua and the Anishinaabe peoples (chippewas in kettle and stony point ontario)
 • What is the good life, and what does that mean for the two groups?
+- The belief that Earth sustains all life when humans live in harmony with nature physically and spiritually. Recognizing the gifts of the earth and practicing sustainability to ensure resources for future generations
 • How do Indigenous knowledge systems view the natural world?
+- View it as an interdependent network of beings; as an all encompasing organism with its own intrinsic rights
 • In what ways are the two groups’ traditional relationships with land and water affected by colonization?
+- Colonization imposed western norms which are anthrocentric and view nature as subservient to humans. This has led to rapid deforestation for the Mayagna peoples (food insecurity) and water insecurity for the Anishinaabe peoples, loss of decision-making power, and pollution of sacred water-sources 
 • Given their strong connection to the land, are all Indigenous cultures the same?
+- Do indigenous cultures do not share a homogenous identity despite their similar strong connections to nature. Identities are shaped by environmental context, and unique histories with colonialism
 • How do the Mayangna think of other species (like animals they hunt animals) that they
 depend on?
+- View animals as part of themselves because they have lived in harmony for centuries. They assume a role of stewardship to protect animals as they are dependent on their long term survival for resources
 • How do the authors describe what they recommend as a decolonizing approach to
 policy reform for Indigenous land and water governance?
+- They recommend a framework based on four approaches:
+- Ecological: placing the integrity of the land and water above all
+- Sociopolitical: Respecting indigenous rights to self-determination and representation in decision making
+- Technical: providing adequate finances and infrastructure to meet community capacity needs
+- Educational: changing mainstream and government perspectives to recognize nature's essential role in well-being
 
 Abstract
 - indigenous knowledge systems view the world as an interdependent unity of beings within their environment
