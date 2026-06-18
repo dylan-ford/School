@@ -1,1 +1,160 @@
-Autism spectrum disorder
+**Autism Spectrum Disorder**
+
+History
+- Kanner 1943 coined term "early infantile autism"
+- Asperger defined a milder form of autism called Asperger's (better cognitive and language skills, more intact social interest)
+- DSM-IV introduced "persistent developmental disorder"
+- changes to how we conceptualize ASD
+	- narrow vs broad
+		- autism is now recognized as a spectrum of support needs
+	- rare vs common
+	- disorder vs neurodiversity
+	- early childhood vs lifespan perspective
+	- "person with autism" vs "autistic person"
+Developmental tasks and challenges related to ASD
+- differences in social functioning
+	- social cognition: the unique processes that enable human beings to interpret social information and decide how to behave in a social situation (how people think about themselves and others in social situations)
+	- building blocks for social cognition:
+		- Visual attention: orienting to people, faces, eyes
+		- Joint attention: social coordination of attention
+		- Theory of mind: ability to recognize & represent the mental states of others
+		- Affective social competence: coordination of capacities to experience, communicate, and understand emotion
+- Affective social competence
+	- involves the coordination of the capacities to:
+		- experience affect (know what we are feeling)
+		- send affective messages (send emotional messages to others)
+		- receive affective messages (read others' emotional signals)
+Social motivation hypothesis in ASD
+- early differences in social attention, which leads to decreased social learning experiences
+- imbalance in attending to social and non-social stimuli further impacts social skill and social cognitive development
+- inconsistent eye contact, infrequent pointing, repetitive motor stereotypies are characteristic with autistic children. There's a paper criticizing the hypothesis that these characteristic traits aren't a result of lack of motivation
+- heterogeneity in developmental pathway varies outcomes
+Developmental course
+- infancy
+	- by 6 months
+		- reduced vocalizations
+		- reduced attempts to seek physical contact
+		- less orientation towards faces
+		- less frequent social smiling
+	- 10 months 
+		- non-response to name
+		- delay in meeting find and gross motor milestones
+	- 12 months
+		- reduced showing and pointing
+		- less frequent social smiling
+		- less imitation
+- Childhood 2-3+
+	- early disruptions in social skills lead to core, characteristic symptoms of ASD that are mostly in place by the second year of life
+	- diagnoses become more reliable at age 3
+	- earlier diagnosis = better outcomes
+		- take advantage of neuroplasticity to take advantage of language and social skills
+	- Autistic regression may occur
+		- typical development followed by plateauing, loss of engagement, or failure to acquire more skills
+	- entry to school/other educational experiences provide opportunities for growth but also challenge
+- Adolescence and adulthood
+	- increasing demands of independence and social competence
+	- development of coping and compensatory strategies and skills that help them manage symptoms, everyday events, and more stressful situations
+		- environmental accommodations
+		- camouflaging
+	- Trajectories involving mental health and mental illness suggest that many autistic individuals experiencing increasing and compounding difficulties over time
+- Resilience pathways
+	- many autistic youth display changes in core ASD features as they age
+		- improved social communication, may result from intervention and experience
+	- Making sure autistic children and adolescents experience many positive social interactions across the range of neurotypical and neurodiverse individuals increases the likelihood and impact of resilience processes
+	- supportive family/siblings
+	- to facilitate good outcomes, barriers to flourishing also need to be identified and addressed
+Etiology - know a few examples of how genes or structural functional brain/neurotransmitter factors cause autism
+- Genes and heredity
+	- polygenic models of autism focus on the accumulating and cascading effects of multiple genes
+	- gene x environment x time processes and interactions such as active and evocative gene-environment correlations provide additional information about the development of ASD
+- Structural/functional brain factors, neurotransmitter factors
+	- Larger cerebral volume (over growth)
+	- cerebellum
+	- Medial temporal love and limbic system (amygdala, hippocampus)
+	- Dopamine and dopamine
+		- don find social interactions as non-autistic children
+- environmental factors
+	- anything that impacts brain development - teratogen exposure
+	- don't cause autism directly but increase risk
+- Differences in social motivation
+	- have differences in budling blocks of social processes (joint attention, motivation, etc.), over time compound and create observable traits of autism
+Cascade framework
+- development is the ongoing, cumulative consequence of transactions across developmental domains, biological systems, and environmental contexts
+- early, small differences in behaviours in multiple domains...
+
+Assessment, Diagnosis, and Intervention
+- DSM-5 diagnostic criteria
+	- deficits in social communication and interaction across multiple contexts
+		- children display basic social-communication differences
+		- Basic social and emotional differences influence multiple domains of typical development
+		- children with ASD display both communication delay and communication difference, especially with regard to the social use of language
+	- restricted, repetitive behaviours wand fixated interests
+		- stimming behaviour
+		- insistence on sameness/environmental routines (difficulties with changes in environments)
+		- unusual attachments to certain objects
+		- repeatedly display sensory sensitivities or unusual curiosity about sensory aspects of their environment 
+- Interviews, questionnaire, and ratings scales
+	- parents can provide information about early development, medical history, and family background. Developmental history is highly important
+	- Often an interdisciplinary process
+	- ASD assessments have been developed to aid the often-difficult diagnostic process, and the design and refinement of valid, reliable, and practical measures is the focus of much current research
+	- 4 different ADOS tests depending on age
+		- some ADOS tasks may be less relevant for adults due to there being many play aspects of it
+		- little research done in autism in seniors
+		- long wait times and accessibility issues for accessing autism assessments into adulthood
+- Intervention
+	- what are "optimal outcomes"?
+	- prevention
+		- reducing risk factors
+		- "pre-symptomatic" interventions: take advantage of neuroplasticity to proactively strengthen basic social processes
+	- pharmacological
+		- medications are not effective in getting rid of core ASD symptoms
+		- medications sometimes prescribed to address comorbid conditions to difficult behaviours
+	- psychological
+		- applied behavioural analysis
+		- shift towards naturalistic behavioural developmental interactions
+		- parent interventions
+		- autistic children co-constructing treatment goals
+		- social-communication skills
+			- social skills training, how do we get children to think about better ways to interact with other children
+			- practice initiating conversations and how to think during conversations
+	- school-based
+		- classroom placement/inclusion
+		- supportive services
+		- special education design
+		- communication interventions
+
+ADHD
+- a neurodevelopmental disorder characterized by persistent symptoms of inattention, hyperactivity, and/or impulsivity
+- what ca we regulate?
+	- emotions, cognitive processes, behaviours, self in relation to others
+- self-regulation: one's own control of emotion, cognition, and behaviour. refers to the ability to pursue goal directed actions despite conflicting desires in the present (opposed to impulsivity)
+	- develops rapidly in early childhood
+		- nonlinear (exponential growth in early childhood)
+		- impacted by gender, language skills, and maternal education
+- developmental tasks and challenges
+	- executive functioning: cognitive processes that underlie goal-directed and intentional actions and the control of thought, behaviour, and emotion
+		- broken into 3 categories: 
+			- inhibition: ability to withhold instinctual response
+			- working memory: maintain and manipulate information in your mind without external aid
+			- shifting: ability to switch between mental states, rules, tasks
+	- rapid development in dearly childhood, with development continuing in to late childhood and early adolescence. some components continue development into adulthood (cognitive flexibility)
+	- hypothetical developmental cascade model of temperament and ADHD
+		- maternal-paternal exposure and child ADHD-liable genotype
+		- infant negative affect/anger
+		- toddler weakened effortful control
+		- preschooler elevated ADHD symptoms and irritability
+		- school age ADHD
+- developmental course
+	- problems with school
+		- new demands for social and academic tasks
+	- family challenges
+		- noncompliance and negative behaviours occur more frequently, particularly those related to issues of responsibility, rights, and privileges, and social activities
+	- peer problems
+		- challenges with emotion dysregulation and social information processing, causing challenges in peer relationships
+	- adult outcomes
+		- many adults continue to experience difficulties related to the core symptoms of ADHD
+		- accidental injuries, driving accidents, and suicidality increase
+		- women with a history of ADHD, maltreatment, and rise-taking behaviours are at an increased risk for internalizing disorders and self-harm
+		- criminal activity and incarceration more frequent, as is being the victim of crime
+		- many adults with ADHD report positive well-being and satisfaction
+	- 
