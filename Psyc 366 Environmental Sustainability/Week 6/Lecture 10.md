@@ -1,0 +1,36 @@
+- environmental activism is encouraged by
+	- perceived environmental threat
+	- politicized collective identity
+	- perceptions of injustice
+	- collective efficacy (part of a group that can actually contribute to meaningful change)
+	- knowing other activists
+- politicized environmental identity
+	- what encourages its formation?
+	- social identity theory:
+	- cognitive alternatives to the status quo
+		- awareness of alternatives to the current state of intergroup relations that are subjectively plausible and positives
+		- cognitive alternatives encourage social transformation
+- environmental cognitive alternatives
+	- access to ideas about what the world might be like if the relationship between humans and the rest of nature were harmonious and sustainable
+	- can involve other intergroup relationships...
+- Environmental cognitive alternatives scale (ECAS)
+	- items on the list include questions of self reports on how easy it is to imagine different types of world (positive)
+	- ECAS scores predicts identification with environmental activists
+	- pro-environmental activist intentions
+	- observed behaviour
+	- beliefs about climate change
+	- environmental cognitive alternatives condition > identification with activists > activist 
+- what do people imagine?
+	- pollution reduction, animal respect, renewables, human relations, agriculture, recycling
+	- people would be kinder/gentler
+	- world would not run on capitalism but rather social equity
+	- workers rights around the world
+	- social issues are inextricably tied to imagined future worlds that are more harmonious with nature/sustainable
+- individual behaviours matter
+	- add up over time and across people
+	- we have moral responsibility to think about how our behaviours impact the environment
+	- our behaviours are a form of social influence
+	- acts as a form of cognitive environmental alternatives
+- collective behaviours also bring about social change which make changing individual behaviours changing easier
+	- are important for well-being because when you work with other people you build meaningful relationships and provide felt agency through collective action
+	- 
