@@ -48,7 +48,8 @@
 		- not a viable long term coping strategy
 	- engagement
 		- recognize the problem is there, figure out ways to cope without turning away from the reality even if its harsh
-		- successful type of coping
+		- acknowledges rather than tries to deny or ignore source of stress
+
 
 
 in class activity

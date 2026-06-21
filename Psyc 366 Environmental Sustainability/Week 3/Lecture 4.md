@@ -1,7 +1,7 @@
 Inlet grandmother Kayah george
 
-- While its beautiful to have an allegory for hope that is the rainbow after the storm, hopeful outcomes arent innately predestined, but require the effort and courage of people to make them so.
-- Just because these people have a different relationship to the land that what we were instilled with through our development, doesn't make it less valuable, and just because it is different does not mean it should be discarded without consideration
+- While its beautiful to have an allegory for hope that is the rainbow after the storm, hopeful outcomes arent innately predestined, but require the effort and courage of people to make them so. The real rainbow after a storm is rebuilding and community solidarity
+- Just because these people have a different relationship to the land that what we were taught  through our education, doesn't make it less valuable, and just because it is different does not mean it should be discarded without consideration
 - It's the artist's job to make the revolution irresistible - to show alternate futures
 
 - Creating art can help serve as a coping mechanism for existentialism
@@ -14,7 +14,7 @@ Research on social norms
 - Injunctive norms: what we think we should do; what do people in a group think we should do; how we ought to act
 - Descriptive norm: perceptions of what people actually do
 
-What to do if norms arent pro-environmental
+What to do if norms aren't pro-environmental
 - Some norms might be more pro-environmental than we think - correct misperceptions
 - Beware of conflicting injunctive and descriptive norms.
 - Some norms are changing – let people know
