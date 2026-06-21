@@ -1,4 +1,53 @@
 "Build a Person" Assignment Review | Jun 19
 - thinking about 3 different personality traits and thinking about how they interact together to predict distinct outcomes
 - individual differences go beyond the modules talked about in class and are not just big 5 +  assessment orientation + orientation goals + regulatory mode
+- people with different behavioral patterns can have different personal consequences
+- identify traits and see how they might manifest in a person
+1. create a psychological profile of a person: 3 different traits, how those traits interact to shape their responses in a challenging scenario
+2. choose a scenario. analyze my persons thoughts, feelings, and behaviours based on their profile
+3. Modify one situational element. explain how and why your person's response changes
+	- our personalities can manifest in different ways depending on the situation
+- can choose a realistic person, avoid billionaire CEOs or extreme backstories as they make theory harder to apply
+- focus on individualistic differences. personal history is only relevant when it connects to personality processes and course concepts
+- consider personality patterns. do not discuss the three individual differences separately. consider how they would interact to create distinct outcomes
+	- talk about how each trait contributes to a manifested behaviour
+- justify with theory and research. avoid guess work. your arguments must link back to personality theories and empirical studies
+
+- demographics:
+	- name, gender identity, age, sexual orientation, ethnicity, SES, work/school, religion
+- life history (200 words)
+	- parental/guardian experiences
+	- where did they grew up
+	- 1-2 life shaping events
+	- core identities
+- Part 1: pick and justify three traits (200 words max/trait)
+	- one from big 5
+	- personal domain: 
+		- growth mindset
+		- approach orientation
+		- avoidance orientation
+		- assessment orientation
+		- locomotion orientation
+	- interpersonal domain
+		- attachment anxiety
+		- attachment avoidance
+		- prejudice
+		- sexism
+- Part 2: challenging scenario (500 words max)
+- choose a scenario, analyze how your person would feel, think, and behave. integrate ALL three traits
+	- group project, fitness challenge, friendship challenge, feedback, personal goal, relationship, opportunity, financial, social network
+- Part 3: Person situation interaction (500 words max)
+	- social context: change who is involved or add social/cultural pressure
+	- timeline/stress: increase time pressure or add competing demands
+	- stales/consequences: raise the importance or change the potential outcomes
+	- resources/support: add or remove social support and available tools
+- using bullet points map out the scenarios and traits
+- how you'll be marked
+	- understanding of personality traits
+	- application to person
+		- relevant coherent links between traits and characters history and responses
+	- use of examples
+		- rich, specific examples
+	- theoretical and empirical justification
+	- writing clarity
 - 

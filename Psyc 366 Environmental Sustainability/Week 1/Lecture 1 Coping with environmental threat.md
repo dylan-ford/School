@@ -1,4 +1,4 @@
-commons dilemma
+Commons dilemma
 - when individual receives direct benefit of a resources but only bear a fraction of the cost of extraction/feels little effect of its extraction
 - lack of excludability; no way to prevent others from extracting if you don't
 public ownership
