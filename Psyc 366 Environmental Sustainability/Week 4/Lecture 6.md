@@ -3,7 +3,7 @@
 	- why do increases in efficiency not translate into decreases in consumption?
 	- profit motive > use efficiency to expand production rather than maintain current profit
 	- consumption increases (or economic crisis)
-		- lower prices due to uncreased efficiency
+		- lower prices due to increased efficiency
 		- ubiquitous advertising
 - one solution to Jevon's: reduce working hours over increasing production
 	- if we also increase equality, will reduce consumption and maintain or increase happiness
@@ -45,7 +45,7 @@ Psychological connection with nature
 		- more likely to self-describe as environmentalists
 		- higher scores on perspective taking
 - Nature relatedness scale
-	- "I have this relationship with nature the same way i have relationships with other people"
+	- "I have this relationship with nature the same way I have relationships with other people"
 	- Feeling connected to all living things and the earth
 	- Feeling not separate from nature but a part of it
 	- Even in the middle of the city, I notice nature around me
@@ -90,7 +90,7 @@ Connecting to nature and well-being
 - Exposure to, contact with, or immersion in natural environments
 	- exposure to nature promotes well-being
 	- meta analysis looking at exposure to natural environmental and well being > correlation with increasing positive mood and decreasing negative mood
-	- **biophilia hypothesis**: theory that we natural respond positively to wild and natural settings; feeling more at home in natural environments
+	- **biophilia hypothesis**: theory that we naturally respond positively to wild and natural settings; feeling more at home in natural environments
 	- **Attention restoration theory**: our mind gets to take a break and attend to things in the environment without much effort
 	- Fascination: important to our connection in natural settings may be dependent on fascination
 		- attention being drawn in in a way that isn't effortful
@@ -117,12 +117,7 @@ Connecting to nature and well-being
 		- use public transit or carpool
 		- do full loads of laundry
 part 2 summary
-- well0being can be improved or maintained by connecting with nautre
+- well-being can be improved or maintained by connecting with nature
 	- exposure, time in nature
 	- identification/connection
 	- pro-environmental behaviour
-
-
-
-- making billionaires feel connected to their community
-	- Greek times had the most wealthy contribute to festivals etc.

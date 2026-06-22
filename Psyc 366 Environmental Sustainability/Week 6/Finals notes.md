@@ -14,6 +14,7 @@ Lecture 1
 	- collective identity facilitates cooperation through shared norms, trust, and reciprocity
 		- leading to sustaining resources
 	- individualistic models of human nature make sustainability seem impossible
+
 Lecture 2
 - 99% scientific consensus that global warming is caused by human efforts
 - warmer weather increases hurricanes, typhoons, high precipitation events, droughts, fires
