@@ -1,0 +1,148 @@
+Maltreatment, trauma-, and stressor-related disorders
+- Definitions
+	- Traumatic Events: exposure to actual or threatened harm or fear of death or injury, considered extreme stressors
+	- Trauma: on going consequences of experiencing a traumatic event
+	- Maltreatment: Abuse and/or neglect of a person, type of traumatic event
+	- Stressful events: more common and less extreme than traumatic events
+	- Stress: tension caused by difficult events
+- Neglect makes up 75% of child maltreatment
+- Types of maltreatment:
+	- physical
+		- aggression, physical harm
+		- often result from over-disciplining
+		- physically abused children are often described as more disruptive and aggressive
+	- emotional
+		- repeated acts or omissions (failure to act) that may cause serious behavioural, cognitive, emotional problems, or mental disorders
+		- can be as harmful to development as physical abuse or neglect
+	- sexual
+		- many acute symptoms resemble children's common reactions to stress
+		- reactions and recover of sexually abused children vary depending on the nature of the assault and responses of important others
+- Examples of neglect
+	- physical
+		- failure to provide food, shelter
+			- challenges like poverty are unintentional 
+		- inadequate supervision - letting them get into dangerous situations
+	- medical
+	- emotional
+		- marked inattention to a child's need for affection
+		- refusal or failure to provide needed psychological care
+		- spousal abuse in child's presence
+		- permission of drug/alcohol use by the child
+	- educational
+		- allowing chronic truancy
+		- failing to enroll a child of mandatory school age in school
+		- failing to attend to a child's educational needs
+- Child risk factors for being a victim of maltreatment
+	- age
+		- younger children are more at risk for abuse and neglect, while sexual abuse is more common among older age groups (over 12)
+		- except for sexual abuse, the victimization rate is inversely related to the child's age
+	- sex
+		- boys and girls are victims of maltreatment almost equally
+		- 80% of sexual abuse victims are females
+	- disability status
+		- children with disabilities are 3x more likely to be victims of physical or sexual abuse
+- Parent risk factors for abuse and neglect
+	- Parental and sociocultural
+		- history of maltreatment
+		- lower level of parental education
+		- lower family income
+		- younger parental age
+		- parental psychopathology/temperament
+		- social isolation
+		- inadequate knowledge of child's needs
+		- male sex
+	- Family environment/influences
+		- conflict and violence at home
+	- stress is the greatest risk factor for abuse
+How maltreatment affects children
+- social information processing
+	- orient their attention toward anger facial expressions and angry vocal cues faster but not for other emotions
+	- anger cues hold attention for longer
+	- more likely to identify other negative emotions and neutral facial expressions as anger
+	- hostile attribution bias
+- emotion processing
+	- more emotional reactivity to potential environmental threats
+		- ex. if they see a negative emotion in the environment, children will have a bigger emotional response
+	- have worse emotional awareness (identifying emotions, describing them)
+	- using maladaptive emotion regulation strategies more often (rumination, suppression)
+- Neurobiology
+	- some children and adults with a history of maltreatment show long-term alterations in the hypothalamic-pituitary-adrenal (HPA) axis and norepinephrine systes
+		- these alterations have signiticent effects on responsiveness to stress
+	- stressful events affect each child in different and unique ways
+		- hyper/hyporesponsive reactions
+	- acute and chronic forms of stress associated with maltreatment may cause changes in brain development and structure from an early age
+- Developmental course: short term impacts
+	- hypervigilance to threat-related stimuli
+		- enhanced sensitivity to angry faces
+		- interferes with development of effective and flexible self-regulation in less threatening contexts
+	- HPA axis, hormone systems, and brain-body stress response system
+	- difficulty with negotiating typical developmental challenges (attachment, autonomy, peer relationships)
+	- cognition
+		- risk decision making, cognitive biases, impairing problem solving, social information processing
+	- relationships
+	- bullying and victimization
+- Developmental course: long term
+	- higher risk of anxiety disorders, depressive disorders, PTSD, conduct disorder, substance use disorder, and poor health outcomes
+	- strong relationship between maltreatment in early childhood and disorders linked to compromised emotion regulation (anxiety disorders, depression)
+
+Protective factors for maltreatment
+- stress: worry or tension caused by difficult situations
+	- caused when demands placed on an individual exceed their available resources
+- coping: regulatory processes activated in response to stress 
+- HPA axis is the stress-response system
+
+Types of stress
+- positive stress response: brief, mild to moderate response, usually with supportive caregiver present
+	- first day of preschool
+- tolerable stress response: involve atypical stressors that trigger a more widespread and potentially longer-lasting response. Protective adults help buffer stress response
+	- serious illness, frequent interparental conflict, natural disaster
+- Toxic stress response: strong, frequent, or prolonged activation of the body's stress response in absence of buffering protection of supportive, adult relationship
+	- abuse, neglect
+
+impact of stress and adversity in early development on these stress-response cycle
+- impacts how we process and remember threat
+- activating the HPA axis and other stress-responsive behavioural and physiological systems
+- altering thresholds for terminating stress response to return to stability
+- Negotiating homeostasis
+	- homeostasis is stability
+	- allostasis: process of maintaining stability by active means
+		- pulling out stress hormones and other mediators
+	- allostatic load: cost to the body and brain by use of allostasis
+- Stress-response system can be:
+	- under-reactive
+		- HPA-axis suppression
+		- reduced glucocorticoids
+		- higher risk of disease
+	- over-reactive
+		- HPA-axis overaction
+		- increased glucocorticoids
+- stress sensitivity can differ predictably across development, and is linked to neural development and degeneration
+- more impacts to hippocampus in childhood due to stress, hi
+- hippocampus in childhood is undergoing rapid development (0-2), stress in this period results in decreased hippocampus volume
+	- exposure to stress in adolescence has much less impact on the hippocampus because its done developing
+- ...
+
+Coping
+- strategies through development
+	- infancy: seeking support from caregivers; co-regulation
+	- young children: seek safety and support from adults, escape
+	- middle childhood: increase in number and complexity, cognitive strategies
+	- adolescence: problem solving and better emotion regulation, increasing in seeking peer support, matching coping strategies to type of stressors
+- strategies across lifespan:
+	- acceptance
+	- cognitive reappraisal
+		- cognitive restructuring, interpretive control, focusing on the positive, minimization
+	- emotional expression
+		- sharing emotions, seeking support
+	- emotional suppression
+	- problem solving
+		- decision making, planning
+	- distraction
+	- avoidance
+	- denial
+	- wishful thinking
+Treatment
+- focuses on reestablishing a sense of safety for the child, preocessing and reudcing the intensity of emotional experiences, helping the child understand the impact of the traumatic event, addressing sexondry stressorts, and providing support and guidance to caregivers
+- Trauma-focused CBT
+	- multicomponent model includng parent treatment, psychoeducation, relaxation and stress mangement skills, coping skills
+	- 
