@@ -57,7 +57,7 @@ Environmental racism and classism
 - 1990: minority groups made up 25% of the population, but 40% of the people who lived within 1 mile of hazardous waste sites
 - Ethnic disparities in air pollution in the US
 	- largest environmental health risk in USA killing over 100000 every year
-	- people dont contribute equally to pollution; ^ consumption = ^ pollution
+	- people don't contribute equally to pollution; ^ consumption = ^ pollution
 	- PM2.5: small particulate that leads to poor cardiovascular health
 	- black and Hispanic minorities bear a disproportionate cost of air pollution
 		- exposed to 56-63% increased PM2.5 than they cause

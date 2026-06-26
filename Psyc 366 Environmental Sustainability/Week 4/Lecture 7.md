@@ -27,4 +27,9 @@ Inequality and the environment - is inequality bad for the environment?
 			- controlling for GDP and military expenditure
 	- women are underrepresented in legislative bodies across the world
 		- in European parliament women were more likely to vote for pro-environmental legislation than men, even when controlling for political ideology
-	- 
+- summary
+	- environmental issues are connected to inequality: distribution, and magnitude
+	- addressing climate change requires addressing inequality
+	- we tend to underestimate the environmental concern of racial/minority groups and poor people
+		- at least partly abotu stereotypes of environmentalists (usually seen as whites)
+		- likely due in part to exclusionary practices of environmental groups
