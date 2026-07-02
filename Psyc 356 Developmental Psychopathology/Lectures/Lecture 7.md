@@ -1,0 +1,136 @@
+Oppositional defiant and conduct disorder
+
+- prosocial behaviours
+	- behaviours that benefit others
+	- can be focused on
+		- meeting other's emotional needs
+		- pragmatic goals
+- prosocial motivation
+	- motives that influence prosocial behaviour 
+		- motives can focus on the self or other people
+		- empathy, justice principles, social norms
+		- avoiding negative emotions/punishment, social and material reward
+- two constructs related to prosocially:
+	- conscientiousness
+		- personality characteristic evident in displays of self-control, purposefulness, and responsibility
+	- conscience: one's inner sense of right and wrong
+How does prosocially develop and change across development?
+- happens in conjunction with emotional, cognitive, and behavioural development, which each influence the above constructs
+	- emotion influence: 
+		- experiences of empathy over time help children respond to others with concern and kindness. Feeling guilty after doing something bad decreases likelihood to repeat behaviour
+	- cognition: 
+		- improving perspective-taking skills over time lead to increased appreciation of other's needs or goals
+	- behaviour: 
+		- improving self-regulation skills over time influences cooperation and compliance
+	- how is prosocial behaviour encouraged over time?
+		- elicits positive affect
+		- positive consequences
+		- social learning
+		- guilt
+- development occurs in context of the environment
+	- parent-child relationship
+		- degree of responsiveness
+	- attachment patterns
+	- parental discipline style
+- developmental considerations on prosociality
+	- differential sensitivity
+	- stability
+		- early individual differences in prosociality tend to persist over time
+	- sociocultural considerations
+	- heterogenous pathways
+
+Antisocial and aggressive behaviour
+- when such behaviour is sustained, and involves violating social norms and rights of others, we start to think about Oppositional Defiant Disorder and Conduct Disorder
+- ODD
+	- 4 dimensions:
+		- oppositionality
+		- irritability
+		- aggression
+		- callous unemotional traits (limited prosocial emotions)
+	- developmental course
+		- stability
+			- continue overtime without much improvement or deterioration, resulting in years of conflict, hostility, and distress
+			- most common pathway without intervention
+			- factors predicting stability:
+				- age - early onset in childhood
+				- gender - boy
+				- parent, family factors - negative parenting practices, hostility, harsh discipline
+				- more severe symptoms predict stability
+		- progression:
+				- symptoms progress to eventual diagnosis of CD
+				- male, lower SES, parental hostility
+				- most children with ODD don't go on to develop CD
+		- most problematic pathway:
+			- ODD -> CD -> antisocial personality disorder
+- Conduct Disorder
+	- sustained antisocial/aggressive behaviour that violates social norms and rights of others
+	- callous unemotional traits (25-35% of youth with CD display these traits - identified early and are moderately stable)
+		- insensitivity to others
+		- lack of empathy
+		- lack of guilt or remorse
+		- shallow or deficient emotion
+	- developmental course: differences in time of onset
+		- early onset pathway
+			- long history of negative personal and interpersonal behaviour
+			- behaviours worsen over time
+			- stable externalizing trajectories are already evident in the early school years
+		- adolescent-onset pathway
+			- problem behaviour emerges more abruptly
+			- more common than early onset CD
+			- antisocial behaviour less likely to persist into adulthood
+		- childhood-limited pathway
+			- problem behaviours emerge early in development but diminish over time
+			- this pathway is displayed by few youth
+	- developmental course: different relationships with outcomes
+		- life-course persistent trajectory:
+			- similar to early onset CD
+			- more likely to have a history of ODD and a family history of antisocial behaviour
+			- more likely to display aggression and have worse outcomes
+		- adolescence-limited trajectory
+			- path begins at puberty and ends in young adulthood
+			- somewhat less problematic over time compared to the life-course persistent trajectory
+		- CD youth with callous-unemotional traits exhibit particularly severe and violent patterns over time 
+- neuropsychology of conduct disorder video
+	- ...
+Etiology of conduct problems (ODD and CD)
+- emotional
+	- deficits in processing of negative emotional stimuli; misreading intention
+	- high negative emotionality
+	- difficulties with emotional regulation
+	- low empathy
+	- irritability
+	- temperament: poor impulse control, hyperactivity
+- cognitive
+	- language deficits
+	- difficulties with executive functioning
+- parents and family
+	- harsh, inconsistent, or neglectful parenting
+	- abuse
+	- conflict/violence in the family
+	- derisive parenting: demeaning or belittling children
+	- parental psychopathology, incarceration
+	- attachment insecurity
+	- parental permissiveness and poor monitoring
+- peers
+	- deficits in social cognition
+	- difficulty with problem-solving in peer conflicts
+	- peer dislike, rejection and victimization
+	- susceptibility to peer influence
+	- less popular peers more susceptible by influence
+- sociocultural factors
+	- SES
+	- combinations of adversity
+	- uncreased risks for disruptive and externalizing problems for youth from more affluent backgrounds
+		- potentially a "U" shape in the relationship
+- developmental cascade:
+	- early patterns of disruptive difficulties are frequently and strongly associated with later patterns, difficulties, and children with clinically significant disorders do not "grow out" of their problems
+	- early difficulties with temperament over time that behaviour shows up in different ways - aggressive -> children stay away from them -> less peer relationships
+	- harder time engaging with school -> worse grades
+Assessment and diagnosis
+- differential diagnosis: important to differentiate between common and developmentally expected problems and more severe psychopathology
+- assessment measures: observation, parent and teacher ratings, self-report ratings
+- multiple informants, parent teachers, self
+- assessing from other psychopathology
+	- comorbid of CD and depression -> higher risk of substance abuse and suicidality
+Intervention
+- most effective when there is a match between the clinical presentation and treatment component
