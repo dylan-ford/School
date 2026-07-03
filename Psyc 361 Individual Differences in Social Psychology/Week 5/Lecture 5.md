@@ -70,5 +70,5 @@ Speed vs accuracy goals
 - Regulatory fit
 	- although people choose a manner of pursuit that fits their own orientation, people with power over them determine how they pursue that goal
 	- cannot just provide a 'one size fits all' support
-	- Autonomy suportve learning environment is most satisfying for students high in locomotion orientation
+	- Autonomy supportive learning environment is most satisfying for students high in locomotion orientation
 	- Controlled learning environment is most satisfying for students high in assessment orientation
