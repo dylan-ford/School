@@ -1,93 +1,3 @@
-Quiz submitted
-
-[Skip To Content](https://canvas.sfu.ca/courses/13782/quizzes/66456#content)
-
-[Dashboard](https://canvas.sfu.ca/)
-
-- [
-    
-    ![Dylan Ford](https://canvas.sfu.ca/images/messages/avatar-50.png)
-    
-    Account
-    
-    ](https://canvas.sfu.ca/profile/settings)
-- [
-    
-    Dashboard
-    
-    ](https://canvas.sfu.ca/)
-- [
-    
-    Courses
-    
-    ](https://canvas.sfu.ca/courses)
-- [
-    
-    Calendar
-    
-    ](https://canvas.sfu.ca/calendar)
-- [
-    
-    Inbox
-    
-    ](https://canvas.sfu.ca/conversations)
-- [
-    
-    History
-    
-    ](https://canvas.sfu.ca/courses/13782/quizzes/66456#)
-- [
-    
-    Help
-    
-    ](https://canvas.sfu.ca/courses/13782/quizzes/66456#)
-
-- [
-    
-    ](https://canvas.sfu.ca/courses/13782/quizzes/66456# "Minimize global navigation")
-
-1. [](https://canvas.sfu.ca/)
-2. [PSYC361 D100](https://canvas.sfu.ca/courses/13782)
-3. [Quizzes](https://canvas.sfu.ca/courses/13782/quizzes)
-4. [M6.1](https://canvas.sfu.ca/courses/13782/quizzes/66456)
-
-Summer 2026
-
-- [Home](https://canvas.sfu.ca/courses/13782)
-- [Announcements](https://canvas.sfu.ca/courses/13782/announcements)
-- [Modules](https://canvas.sfu.ca/courses/13782/modules)
-- [Assignments](https://canvas.sfu.ca/courses/13782/assignments)
-- [Quizzes](https://canvas.sfu.ca/courses/13782/quizzes)
-- [Discussions](https://canvas.sfu.ca/courses/13782/discussion_topics)
-- [Grades**2**](https://canvas.sfu.ca/courses/13782/grades)
-- [People](https://canvas.sfu.ca/courses/13782/users)
-- [Files](https://canvas.sfu.ca/courses/13782/files)
-- [Library Reserves](https://canvas.sfu.ca/courses/13782/external_tools/613)
-- [Course Experience Surveys](https://canvas.sfu.ca/courses/13782/external_tools/2628)
-- [Collaborations](https://canvas.sfu.ca/courses/13782/lti_collaborations)
-
-# M6.1
-
-- Due No due date
- - Points 12
- - Questions 12
- - Available Jul 3 at 9:30am - Jul 3 at 9:50am 20 minutes
- - Time Limit 10 Minutes
-
-### Attempt History
-
-||Attempt|Time|Score|
-|---|---|---|---|
-|LATEST|[Attempt 1](https://canvas.sfu.ca/courses/13782/quizzes/66456/history?version=1)|Time:5 minutes|Score:6 out of 12|
-
- Correct answers are hidden.
-
-Score for this quiz: 6 out of 12
-
-Submitted Jul 3 at 9:41am
-
-This attempt took 5 minutes.
-
 Incorrect
 
 Question 1
@@ -268,16 +178,7 @@ The "prejudice gap" refers to:
 
   people high in RWA/SDO scoring higher on prejudice than people low in RWA/SDO 
 
-Quiz Score: 6 out of 12
 
-[](https://canvas.sfu.ca/courses/13782/modules/items/718151)
+Prejudice gap: conservatives hold more prejudiced beliefs towards outgroups, minorities
 
-[](https://canvas.sfu.ca/courses/13782/modules/items/646385)
-
-Submission Details:
-
-|   |   |
-|---|---|
-|Time:|5 minutes|
-|Current Score:|6 out of 12|
-|Kept Score:|6 out of 12|
+25 interventions were successful at reducing partisan animosity BUT **weren't** successful at reducing partisan violence
