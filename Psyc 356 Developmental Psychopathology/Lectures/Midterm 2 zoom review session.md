@@ -26,7 +26,7 @@ Avoidant/restrictive food intake disorder is a feeding or earing disturbance tha
 - ARFID definition encompasses all of these dimensions
 	- body image disturbance is NOT a prerequisite for ARFID
 
-1 6-yr old John is undergoing an assessment for ASD. During the ADOS assessment the assessor blows some bubbles, points at them, and asks in an excited voice: "John, what is that?" The assessor is trying to determine if John will engage in _
+6-yr old John is undergoing an assessment for ASD. During the ADOS assessment the assessor blows some bubbles, points at them, and asks in an excited voice: "John, what is that?" The assessor is trying to determine if John will engage in _
 - Joint attention
 - Visual attention
 - Theory of mind
@@ -73,6 +73,5 @@ short answer
 	- differences in temperament or hyperactivity manifests differently across time and impacts areas of development (peer relationships), which limits social circle to maybe not the best peers (who negatively influence)
 	- over time these struggles can development into activities that get people in trouble with the law
 	- **changes over time across multiple areas of development**
-	- 
 
 
