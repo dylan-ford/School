@@ -34,4 +34,30 @@ Ambivalent sexism theory
 		- to restore damaged relationships
 		- them ore men endorse BS - the lower resistance and more open they are during couples' conflict discussions
 			- the more men report positive perceptions of their partners and the relationship
-		- 
+		- why is BS sexist?
+			- prescribes specific gender roles that promote men's social power and confine women's power to the relationship domain:
+				- men's competence verify that men should occupy high-status career-focused roles
+				- women's warmth confirm women are more suited for low-status home-oriented caregiving roles
+				- asserts that women's positive relationship-related qualities are accompanied by traits that means the *need care and protection and are less capable* outside the relationship domain
+			- BS undermines women's competence
+	- Men's benevolent sexism -> facilitates intimate relationships
+		- limits women to domestic communal roles
+	- Facilitates intimate relationships -> women's benevolent sexism
+		- promise of care and adoration is appealing and masks the cost
+		- promises relationship security
+		- costs of women's BS
+			- receive reverence and scrutiny
+			- but foregoes independence, autonomy and competence *in domains outside the relationship
+			- women will be cherished and revered, but only if they fulfill these specific roles
+			- if women deviate from these roles they experience the backlash of hostile sexism
+		- the more women endorse BS
+			- the lower they have ambition for career and education
+			- they endorse their responsibility is providing support to partner's career
+			- defer to their partner when making career-based decisions
+			- perceive that gender relations are fair and equitable
+			- express more hostile attitudes toward women who challenge men's greater societal power
+		- trading personal ambition and success in favor of security within intimate relationships:
+			- women become more dependent on their relationship
+			- puts pressure on women to have successful relationships
+			- when relationships do not live up the the idealized version of relationships promised, they become more dissatisfied and behave in more hostile ways
+			- women's BS amplifies dissatisfaction when relationship not living up t ideal, particularly when women invested more
