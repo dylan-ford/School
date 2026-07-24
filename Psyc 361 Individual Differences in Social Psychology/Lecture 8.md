@@ -1,4 +1,4 @@
-Hostile and Benevolent Sexism | Jul 3
+Module 7 | Hostile and Benevolent Sexism | Jul 3
 
 - sexism is prejudice based on gender identity
 	- prejudice: holding negative attitudes about the outgroup
