@@ -1,0 +1,239 @@
+<<<<<<< HEAD
+Anxiety and Obsessive Compulsive Disorders
+
+Overview
+- Fears: anxieties elicited in the presence of a specific stimulus
+- worries: anxieties about possible future events
+- most fears and worries are short-lived or manageable
+- moderate fear and anxiety are adaptive
+	- emotions and rituals that increase feelings of control are common in children and teens
+- fears are defined as normal depending on their effect on the child and duration
+- normal anxieties
+	- separation
+	- test
+	- excessive concern about competence
+	- excessive need for reassurance
+	- anxiety about harm to a parent
+- Trajectories: some anxiety/fears naturally decrease over time, some increase, for some children they remain stable
+- Fears and worries become maladaptive when:
+	- they are developmentally inappropriate
+	- They persist beyond expected timeframe
+	- They cause impairment in functioning
+	- They cause clinically-significant distress
+Categories of anxiety disorders
+- Earlier onset
+	- Separation anxiety disorder (SAD)
+	- Specific phobia
+- Later onset
+	- Social anxiety disorder
+	- Generalized anxiety disorder (GAD)
+	- Panic disorder (PD)
+- Agoraphobia
+- Selective mutism
+Earlier onset disorders
+- Separation anxiety disorder
+	- age of onset 7-8
+	- associated with major stress - moving to new neighbourhood or entering new school
+	- persists into adulthood for more than 1/3 of affected children and adolescents
+- Specific phobia
+	- onset 7-9 years - involve specific stimulus: animal, darkness, blood, etc.
+	- Clinical phobias are more likely than normal fears to persist over time
+	- specific phobias are associated with increased risk of later-onset internalizing disorders
+	- multiple fears: highest risk for comorbidity
+Later onset disorders
+- Social anxiety disorder (social phobia)
+	- marked persistent fear of social or performance requirements that expose the child to scrutiny and possible embarrassment
+		- anxiety over mundane activities
+		- most common fear is doing something in front of others
+		- more likely than other children to be highly emotional, socially fearful; and inhibited, sad, and lonely
+	- most common ae of onset is early to mid-adolescence
+- Generalized anxiety disorder (GAD)
+	- excessive, uncontrollable anxiety and worry
+	- worrying can be episodic or almost continuous
+	- worry excessively about minor everyday occurrences
+	- accompanied by somatic symptoms: headaches, stomach aches, muscle tension
+	- average age of onset is early adolescence; older children have more symptoms; symptoms persist over time
+- Panic disorder
+	- panic attacks:
+		- sudden overwhelming periods of intense fear or discomfort accompanied by 4+ physical symptoms characteristic of fight/flight response
+		- rare in young children, common in adolescents - young children may lack cognitive ability to make catastrophic misinterpretations
+Developmental course of anxiety disorders
+- homotypic continuity
+	- SAD in childhood predicts SAD in adolescence
+- heterotypic continuity
+	- GAD in childhood predicts depression in adolescence
+	- symptoms of separation anxiety also predicted anxiety symptoms unrelated to separation (social anxiety)
+- stability associated with:
+	- temperamental dimension of behavioural inhibition, insecure attachment, parental depression
+	- 1/3 of adolescents have increasing levels of symptoms for GAD, SAD, and panic disorder over time
+	- SAD and GAD more likely to be associated with later depression
+- school refusal may be another complication of anxiety disorders
+- parenting behaviours can maintain and exacerbate symptoms over time
+Etiology of anxiety disorders
+- genetics
+- physiological vulnerability
+	- limbic system
+	- HPA axis
+	- hyperarousal, heightened emotional responsivity, dysregulation with early adversity increasing vulnerability
+- child factors
+	- temperament (inhibition)
+	- emotion regulation (acceptance, distress tolerance)
+	- cognitive and attention biases (rumination, social information processing)
+- parent factors
+	- genetic + learning
+- environmental factors
+	- adverse life events
+	- chronic stressors (SES, discrimination, friendship problems)
+Interventions
+- CBT
+	- anxiety comes from unhelpful pattern of thoughts, behaviours, and emotions
+	- evaluations of stimuli as threat (cognition), trigger unpleasant emotions, resulting in efforts to escape (behavioural)
+	- correcting this pattern by using psychoeducation, problem solving, cognitive restructuring, and graded exposure therapy
+- exposure therapy
+	- what is the fear of?
+	- use in vivo exposure, interoceptive exposure, or imaginal exposure
+	- subjective units of distress scale
+Obsessive-compulsive disorder
+- A: presence of obsessions, compulsions, or both
+	- Obsessions: recurrent and persistent thoughts, urges, or images that are experienced as intrusive and unwanted
+	- Compulsions are defined by: repetitive behaviours or mental acts that the individual feels driven to perform in response to an obsession or according to rigidly applied rules rigidly
+- B: behaviours or mental acts are aimed at preventing or reducing anxiety or preventing some dreaded event; these behaviours or mental acts are not connected in a realistic way with what they are designed to neutralize or prevent, or are clearly excessive
+- C: obsessions or compulsions are time-consuming or cause clinically significant impairment in important areas of functioning
+- four main symptoms in children, adolescents, and adults:
+	- Obsessions about harm/responsibility and checking compulsions
+	- Symmetry obsessions and arranging/ordering compulsions
+	- Contamination obsessions and cleaning compulsions
+	- Hoarding obsessions and compulsions
+- Developmental course
+	- continuity in clinical presentation
+	- child-onset of OCD is common and typically occurs between 7 and 13
+	- some level of obsessive compulsive symptoms are normative and some children will experience sub-clinical obsessive-compulsive symptoms
+		- persistence and severity often linked to comorbid disorders
+		- common comorbidities: anxiety disorders, tic disorders, ASD, depression, and externalizing disorders
+- Etiology of OCD
+	- genetic vulnerability
+	- physiological vulnerability
+		- frontal striatal circuits that involve frontal lobe and subcortical structures like the basal ganglia and thalamus
+	- child factors
+		- arousal and emotion regulation
+		- cognitive factors
+	- reviews of environmental risk factors for OCD reveal few, if any, environmental contributions
+- Interventions
+	- exposure and response prevention for OCD
+		- exposure: facing the thought, image, object that triggers anxiety/fear
+		- response prevention: resist urge to engage in compulsive behavioru
+=======
+Depressive disorders and suicidality
+- (ocd - Tend to effect frontal brain regions whereas anxiety disorders tend to effect the amygdala)
+
+- The transition from childhood to adolescence: developing a mature psychological identity (secure sense of self, identity) is the primary achievement of adolescence
+	- Involves sense of self:
+		- The characteristics, abilities, beliefs, and values that make you, you
+	- and identity:
+		- understanding and acceptance of the self
+		- prizing of self, roles, relationships, and responsibilities
+- Developmental tasks and challenges related to the construction of self and identity
+	- developing sense of self and identity is a continuous process that beings in infancy and continues across development
+		- necessary for overall ongoing healthy adjustment
+	- domains of competence: areas of challenge and resolution (e.g., academics, behaviour, friendships, work, sports, appearance, etc.) that have an impact on the ways in which children perceive themselves 
+	- Factors contributing to competent rather than incompetent adjustments involve adolescents’ abilities to cope with increases in daily hassles and large stressors
+- 2 main pathways to the construction of self and identity
+	- individual achievement + accompanying respect from peers -> 
+		- sense of competence 
+		- development of self-esteem
+		- social relationships
+		- less risk for psychopathology
+	- lack of success in valued domains + social isolation ->
+		- low self-esteem
+		- struggle with self-identity
+		- negative emotions
+		- negative moods
+		- more risk for psychopathology (depressive disorders)
+- Overview of mood disorders
+	- Spectrum of mood disorders runs from severe depression to extreme mania
+	- DSM-5 divides mood orders into 2 general categories:
+		- depressive disorders
+		- bipolar disorders
+- Major depressive disorder
+	- core features:
+		- appetite, sleep disturbance, anhedonia, dysphoria, fatigue, agitation of slowness, concentration, esteem, suicidal ideation (ASADFACES)
+	- developmental differences in MDD
+		- childhood
+			- lower prevalence of depression
+			- somatic complaints common
+			- hypersomnia and reduced appetite uncommon
+			- lower risk of suicide
+			- irritability common
+		- adolescence
+			- higher prevalence of depression
+			- decreased somatic complaints
+			- hypersomnia and reduced appetite (for girls) increase
+			- suicide rates peak in middle adolescence (For girls) or late adolescence (boys)
+			- irritability common
+			- worthlessness/guilt often reported
+	- Sex differences in MDD
+		- rates of depression almost twice as high in adolescent girls compared to boys
+			- gender differences emerge around 13 years old
+		- Girls report higher number of depressive episodes from adolescence into adulthood
+		- Worthlessness/guilt symptom more commonly reported in depressed adolescent girls, relative to boys
+		- Boys tend to report more anhedonia, difficulty concentrating and psychomotor agitation/slowing, compared to girls
+	- Developmental course of MDD
+		- developmental continuity is common
+			- homotopic continuity:
+				- cumulative probability of depression reoccurrence is 40% at 2 years following a depressive episode and 70% by 5 years
+			- heterotypic continuity:
+				- somatic problems, anxiety, conduct problems all predict later depression
+		- Early adolescent-onset trajectories are associated with greater symptom persistence
+		- Worse outcomes linked to: repeat episodes, early onset, depression symptom severity, history of sexual abuse, parent psychopathology, poor peer relationships, comorbidity
+	- Bipolar disorder
+		- features a striking period of unusually and persistently elevated, expansive, or irritable mood, alternating with or accompanied by one or more major depressive episodes
+		- symptoms include restlessness, agitation, sleeplessness, pressured speech, flight of ideas, racing thoughts
+		- Three subtypes:
+			- Bipolar I disorder: both major depressive episodes and at least one episode of mania
+			- Bipolar II disorder: both major depressive episodes and hypomanic episodes
+			- Cyclothymic disorder: hypomanic episodes and depressive symptoms that do not meet the criteria for major depression
+		- Question of whether bipolar is accurately diagnosed in children remains controversial
+			- less challenging/controversial in adolescence, when bipolar disorder appears similarly to how it does in adults
+			- the current consensus is that bipolar can emerge in childhood, but that it is difficult to diagnose and complicated to treat
+	- Developmental course of bipolar
+		- continuity
+			- wrt bipolar, a chronic pattern has ben observed for children and adolescents
+			- 20-25% of children and adolescents
+		- etiology
+			- highly heritable; 60-85% heritability
+			- different genetic risk for depression and mania
+			- neurobiological factors and environmental factors such as stress are also relevant
+			- psychological risk factors
+				- reward hypersensitivity
+				- ...
+		- Reward hypersensitivity model of bipolar disorders
+			- overly sensitive biological system for tracking rewards
+			- cause extreme fluctuations in mood and motivation based on life events
+			- approach activation relevant event -> trigger approach activation -> increased reward hypersensitivity... diagram in slides
+		- Social/circadian rhythm model of bipolar disorders
+			- external trigger (social rhythm-disrupting event) -> social rhythm disruption -> biological rhythms drift -> mood episodes/symptoms
+		- onset
+			- median range for onset is between late adolescence and age 30; high risk period between 15-19
+			- early onset, chronic...
+- Suicidality:
+	- overview
+		- suicidal ideation: involves a variety of cognitions, from transitory thoughts about dying to details plans for killing oneself
+		- parasuicide: includes many behaviours, for less dangerous gestures to serious but unsuccessful suicide attempts
+		- non-suicidal self-injury (NSSI) self harm; overlaps with many kinds of parasuicide 
+		- self-injurious thoughts and behaviours (SITBs): composite term that includes all of the above
+		- suicide rates in adolescents are increasing, with suicide being the 2nd leading cause of adolescent deaths
+	- risk factors
+		- strongest predictors: psychopathology, mood disorders or substance use problems
+		- previous suicidal behaviour elevates risk for future behaviour
+		- hopelessness: significant for both development and maintenance of suicidality. shame and guilt, as well as a sense of being a burden to others, often exacerbate
+		- 3 main factors for suicidality:
+			- thwarted belongingness
+			- perceived burdensomeness
+			- capability for suicide
+		- black market organs yt video
+	- contextual variables
+		- environmental, familial, and sociocultural contexts of suicidal behaviour are also important variables
+			- negative life events may necessitate immediate attention
+			- ...
+	- NSSI temporarily alleviates intense negative emotions; 50% of people who self injure report it as a form of self-punishment
+>>>>>>> origin/main
