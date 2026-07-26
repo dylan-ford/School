@@ -1,0 +1,123 @@
+Anxiety and Obsessive Compulsive Disorders
+
+Overview
+- Fears: anxieties elicited in the presence of a specific stimulus
+- worries: anxieties about possible future events
+- most fears and worries are short-lived or manageable
+- moderate fear and anxiety are adaptive
+	- emotions and rituals that increase feelings of control are common in children and teens
+- fears are defined as normal depending on their effect on the child and duration
+- normal anxieties
+	- separation
+	- test
+	- excessive concern about competence
+	- excessive need for reassurance
+	- anxiety about harm to a parent
+- Trajectories: some anxiety/fears naturally decrease over time, some increase, for some children they remain stable
+- Fears and worries become maladaptive when:
+	- they are developmentally inappropriate
+	- They persist beyond expected timeframe
+	- They cause impairment in functioning
+	- They cause clinically-significant distress
+Categories of anxiety disorders
+- Earlier onset
+	- Separation anxiety disorder (SAD)
+	- Specific phobia
+- Later onset
+	- Social anxiety disorder
+	- Generalized anxiety disorder (GAD)
+	- Panic disorder (PD)
+- Agoraphobia
+- Selective mutism
+Earlier onset disorders
+- Separation anxiety disorder
+	- age of onset 7-8
+	- associated with major stress - moving to new neighbourhood or entering new school
+	- persists into adulthood for more than 1/3 of affected children and adolescents
+- Specific phobia
+	- onset 7-9 years - involve specific stimulus: animal, darkness, blood, etc.
+	- Clinical phobias are more likely than normal fears to persist over time
+	- specific phobias are associated with increased risk of later-onset internalizing disorders
+	- multiple fears: highest risk for comorbidity
+Later onset disorders
+- Social anxiety disorder (social phobia)
+	- marked persistent fear of social or performance requirements that expose the child to scrutiny and possible embarrassment
+		- anxiety over mundane activities
+		- most common fear is doing something in front of others
+		- more likely than other children to be highly emotional, socially fearful; and inhibited, sad, and lonely
+	- most common ae of onset is early to mid-adolescence
+- Generalized anxiety disorder (GAD)
+	- excessive, uncontrollable anxiety and worry
+	- worrying can be episodic or almost continuous
+	- worry excessively about minor everyday occurrences
+	- accompanied by somatic symptoms: headaches, stomach aches, muscle tension
+	- average age of onset is early adolescence; older children have more symptoms; symptoms persist over time
+- Panic disorder
+	- panic attacks:
+		- sudden overwhelming periods of intense fear or discomfort accompanied by 4+ physical symptoms characteristic of fight/flight response
+		- rare in young children, common in adolescents - young children may lack cognitive ability to make catastrophic misinterpretations
+Developmental course of anxiety disorders
+- homotypic continuity
+	- SAD in childhood predicts SAD in adolescence
+- heterotypic continuity
+	- GAD in childhood predicts depression in adolescence
+	- symptoms of separation anxiety also predicted anxiety symptoms unrelated to separation (social anxiety)
+- stability associated with:
+	- temperamental dimension of behavioural inhibition, insecure attachment, parental depression
+	- 1/3 of adolescents have increasing levels of symptoms for GAD, SAD, and panic disorder over time
+	- SAD and GAD more likely to be associated with later depression
+- school refusal may be another complication of anxiety disorders
+- parenting behaviours can maintain and exacerbate symptoms over time
+Etiology of anxiety disorders
+- genetics
+- physiological vulnerability
+	- limbic system
+	- HPA axis
+	- hyperarousal, heightened emotional responsivity, dysregulation with early adversity increasing vulnerability
+- child factors
+	- temperament (inhibition)
+	- emotion regulation (acceptance, distress tolerance)
+	- cognitive and attention biases (rumination, social information processing)
+- parent factors
+	- genetic + learning
+- environmental factors
+	- adverse life events
+	- chronic stressors (SES, discrimination, friendship problems)
+Interventions
+- CBT
+	- anxiety comes from unhelpful pattern of thoughts, behaviours, and emotions
+	- evaluations of stimuli as threat (cognition), trigger unpleasant emotions, resulting in efforts to escape (behavioural)
+	- correcting this pattern by using psychoeducation, problem solving, cognitive restructuring, and graded exposure therapy
+- exposure therapy
+	- what is the fear of?
+	- use in vivo exposure, interoceptive exposure, or imaginal exposure
+	- subjective units of distress scale
+Obsessive-compulsive disorder
+- A: presence of obsessions, compulsions, or both
+	- Obsessions: recurrent and persistent thoughts, urges, or images that are experienced as intrusive and unwanted
+	- Compulsions are defined by: repetitive behaviours or mental acts that the individual feels driven to perform in response to an obsession or according to rigidly applied rules rigidly
+- B: behaviours or mental acts are aimed at preventing or reducing anxiety or preventing some dreaded event; these behaviours or mental acts are not connected in a realistic way with what they are designed to neutralize or prevent, or are clearly excessive
+- C: obsessions or compulsions are time-consuming or cause clinically significant impairment in important areas of functioning
+- four main symptoms in children, adolescents, and adults:
+	- Obsessions about harm/responsibility and checking compulsions
+	- Symmetry obsessions and arranging/ordering compulsions
+	- Contamination obsessions and cleaning compulsions
+	- Hoarding obsessions and compulsions
+- Developmental course
+	- continuity in clinical presentation
+	- child-onset of OCD is common and typically occurs between 7 and 13
+	- some level of obsessive compulsive symptoms are normative and some children will experience sub-clinical obsessive-compulsive symptoms
+		- persistence and severity often linked to comorbid disorders
+		- common comorbidities: anxiety disorders, tic disorders, ASD, depression, and externalizing disorders
+- Etiology of OCD
+	- genetic vulnerability
+	- physiological vulnerability
+		- frontal striatal circuits that involve frontal lobe and subcortical structures like the basal ganglia and thalamus
+	- child factors
+		- arousal and emotion regulation
+		- cognitive factors
+	- reviews of environmental risk factors for OCD reveal few, if any, environmental contributions
+- Interventions
+	- exposure and response prevention for OCD
+		- exposure: facing the thought, image, object that triggers anxiety/fear
+		- response prevention: resist urge to engage in compulsive behavioru
