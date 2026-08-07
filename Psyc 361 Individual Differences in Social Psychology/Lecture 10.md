@@ -1,12 +1,18 @@
 - What are hyper-regulation emotion regulation strategies?
 	- what is hyper regulation
+	- hyper emotion expression: exaggerated emotional expressions and pulling emotions from the partner
+		- exaggerated emotional expression which demands proximity when they fear a partner or caregiver is distant or unreliable
+		- proximity seeking, separation protest, secure base
+	- infants rated as unstable insecure report greater hyper-regulation strategies during discussions with their romantic partners
 - Which of the following describes an individual high in attachment avoidance?
+	- unresponsive, rejecting, and cold caregiving results in an infant response that is avoidant of contact and support, independent and self-reliant, and cope by showing little emotion
 - Pepping 2024 attachment orientations among single individuals
-	- highly avoidant singles...
+	- highly avoidant singles prioritize independence, show the least interest in romantic relationships, and experience lower emotional distress from being single, but report fewer close friends and lower life satisfaction
+	- 
 - According to attachment theory when do people develop attachment insecurity
 	- inconsistent caregiving X
 	- sensitive and responsive caregiving 
-	- it depends on the type of insecurity 
+	- **it depends on the type of insecurity** 
 	- rejecting and cold caregiving 
 - Infants who were unstably insecure at either 12 or 18 months are more likely to display ________________________________ in relationship challenging situations 20-35 years later.
 	- hyper-regulation strategies

@@ -22,15 +22,15 @@ Module 8: Attachment Insecurities
 		- outlined evidence: eye tracking, clinging, smiling, crying
 - Normative attachment processes
 	- Evolutionary function of the attachment system:
-		- To maintain proximity to young to caregivers for protection from environmental threats and increase changes of survival. How? by resisting and experiencing distress at separation to maintain closeness and protection by caregiver
-		- Behavioural system is most activated when infant in danger or distress. The caregiver is a safe haven in times of distress - goal is to regulate emotional distress and restore felt security
-		- When security is established, caregivers provide a secure base from which infants can explore the environment and cultivate autonomy
+		- To maintain proximity to young to caregivers for protection from environmental threats and increase changes of survival. How? by resisting and **experiencing distress at separation to maintain closeness and protection by caregiver**
+		- Behavioural system is most activated when infant in danger or distress. The **caregiver is a safe haven** in times of distress - goal is to regulate emotional distress and restore felt security
+		- When security is established, **caregivers provide a secure base** from which infants can explore the environment and cultivate autonomy
 - From Bowlby to Ainsworth
 	- Argued that normative process and attachment system is a good thing but normative processes reflect the ideal situation but not all relationships develop in an ideal manner
 		- When caregivers don't provide safety and care, babies have to change the ways they adapt
 	- Concerned with whether children were attached, but also how they are attached
 - Individual differences
-	- quality of attachment is determined by history of attachment interactions and responsiveness of attachment caregiver
+	- quality of attachment is determined by **history of attachment interactions and responsiveness of attachment caregiver**
 	- Develop schemas for self and others (working model)
 		- Beliefs and expectations about whether others will be responsive to your needs
 		- Influences psychological processes and behaviours
@@ -42,7 +42,7 @@ Module 8: Attachment Insecurities
 - Strange situation
 	- assessing infant attachment through separation and reunion with caregiver in a lab
 	- secure: 60%, explores when CG is present, upset when CG leaves, easily soothed on return
-		- sensitive and responsive caregiving = trust availability of love and support, seek proximity ad contact, and then use caregiver as secure base
+		- sensitive and responsive caregiving = trust availability of love and support, seek proximity and contact, and then use caregiver as secure base
 	- anxious: 20%, clings to CG, extremely upset when CG leaves, upset (less) when CG returns
 		- Receive inconsistent and erratic responsiveness = anxious about availability of love and support, inappropriate and prolonged protest, and do not accept comfort
 	- avoidant: 20%, explores when CG is present, not as upset when CG leaves, distant/withdrawn when CG returns, plays with toys
