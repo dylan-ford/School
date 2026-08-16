@@ -1,0 +1,22 @@
+Final Exam Prep
+- go back to each outcome and focus on the learning outcomes for each. copy paste the learning outcomes and for each start writing out everything you know to answer the questions
+	- core features, define concepts
+- Module 1
+	- Person x situation: how a single individual's behaviour changes depending on the situation
+	- Continuity assumption: personality exists on a spectrum; 2 people can feel the same emotion but respond differently to it - experience different levels of emotion in response to a situation which motivates unique behaviour
+- Module 2
+	- 
+- Module 3
+	- 
+- Module 4
+	- 
+- Module 5
+	- 
+- Module 6
+	- 
+- Module 7
+	- 
+- Module 8
+	- 
+- Module 9
+	- 

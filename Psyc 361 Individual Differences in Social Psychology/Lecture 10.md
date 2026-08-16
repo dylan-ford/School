@@ -8,7 +8,11 @@
 	- unresponsive, rejecting, and cold caregiving results in an infant response that is avoidant of contact and support, independent and self-reliant, and cope by showing little emotion
 - Pepping 2024 attachment orientations among single individuals
 	- highly avoidant singles prioritize independence, show the least interest in romantic relationships, and experience lower emotional distress from being single, but report fewer close friends and lower life satisfaction
+<<<<<<< HEAD
 	- highly avoidant single avoid intimate relationships but benefit from intimacy and closeness
+=======
+	
+>>>>>>> origin/main
 - According to attachment theory when do people develop attachment insecurity
 	- inconsistent caregiving X
 	- sensitive and responsive caregiving 
@@ -72,3 +76,16 @@ Perils of low self-esteem
 - people become attuned to the degree to which they are being accepted or rejected
 - Greater need for social approval, fear negative evaluation, socially anxious and rejection-sensitive
 - lower self-esteem = more brain activation in brain areas associated with experiencing and regulating pain
+Self-fulfilling prophecies
+- we form certain expectations of people and events
+- ...
+- low self-esteem = feel unworthy
+- expect other will evaluate them negatively and eventually reject them
+- expectations of rejection lead to biased perception and explanation of others behaviour
+- over-react emotionally and behaviourally
+- such reactions can become self-fulfilling prophecies because negative actions from individual produces negative evaluations and real drops in relational value from others
+- emma freaking sucks and is a poo head 
+	- Like she gives the vibe that she eats bugs and stuff for like dinner, ew
+	- Kind of a kindred spirit with pigpen from the Peanuts, you know, that kid who has a perpetual stink cloud surrounding him? yeah that guy
+- 
+
