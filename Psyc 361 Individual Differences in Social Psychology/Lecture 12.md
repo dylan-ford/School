@@ -1,22 +1,52 @@
 Final Exam Prep
 - go back to each outcome and focus on the learning outcomes for each. copy paste the learning outcomes and for each start writing out everything you know to answer the questions
 	- core features, define concepts
-- Module 1
-	- Person x situation: how a single individual's behaviour changes depending on the situation
-	- Continuity assumption: personality exists on a spectrum; 2 people can feel the same emotion but respond differently to it - experience different levels of emotion in response to a situation which motivates unique behaviour
-- Module 2
-	- 
-- Module 3
-	- 
-- Module 4
-	- 
-- Module 5
-	- 
-- Module 6
-	- 
-- Module 7
-	- 
-- Module 8
-	- 
-- Module 9
-	- 
+
+- Person x situation: how a single individual's behaviour changes depending on the situation
+- Continuity assumption: personality exists on a spectrum; 2 people can feel the same emotion but respond differently to it - experience different levels of emotion in response to a situation which motivates unique behaviour
+- The main issue with Cattell's 16 personality factors were that they were difficult to replicate. He used factor analysis to come up with the traits and they were normally distributed
+- Practice makes FROGgress
+
+- Implicit theories/implicit beliefs: naive assumptions about the world
+- Regardless of income decile, people with a growth mindset outperform people with a fixed mindset
+- Discrepancy reducing feedback processes are aimed at reducing the discrepancy between the self/goals and: positive outcome
+	- Process of reducing the discrepancy between you and the positive outcome
+- ![[Pasted image 20260807104156.png]]
+- Be able to write down definitions for approach/avoidance performance/ and an example of each
+	- Performance goals (either) are both associated with greater academic outcomes, but only mastery approaches are associated with improvements to wellbeing
+	- Approach goals more likely to take remedial action: likely to ask for help to improve/fix/change behaviour to achieve better outcomes in the future
+	- How each orientation attributes failure
+	- How each orientation view others: as competition or as people who can help them
+- Provide an example of someone who has an extrinsic motivation and autonomous motivation
+	- Dimensions
+		- intrinsic motivation: doing something because you want to, brings you fulfilment
+		- extrinsic motivation: outward force motivating you to do something
+		- autonomous motivation: wanting to do something of your own volition
+		- controlled motivation: external force making you do something
+	- Going to university to get a degree to make parents proud
+		- autonomous: choosing to go to university
+		- extrinsic: doing it because you want to impress parents
+	- Buying own car to increase independence
+		- autonomous: choosing to buy the car
+		- extrinsic: increase independence
+- Locomotion orientation 
+	- better academic outcomes, less overly critical about setbacks, focused on moving forward and improving
+	- less likely to feel distracted, more feeling of a sense of control of time they have
+	- assessment orientation associated with perfectionism, overthinking
+- Define prejudice gap
+	- .
+![[Pasted image 20260807114249.png]]
+	- World is a dangerous place
+	- World is a competitive jungle
+	- RWA, Prejudice, Nationalism, Ethnocentrism
+- Hostile sexism > promotes men's social power > damages intimate relationships > benevolent sexism > Promotes intimate relationships > undermines women's societal behaviour
+- Dimensions of attachment and security: attachment anxiety and attachment avoidance
+	- development history of each:
+		- anxiety: when people have inconsistent caregiving 
+		- avoidance: cold and rejecting caregiving
+	- characteristics of each
+		- anxiety: dependent, needy, exaggerate emotional responses to conflict (hyperregulation), hypervigilant to partner's mood
+![[Pasted image 20260807120400.png]]
+	- when does self-esteem peak across lifespan? 51
+	- low self esteem when younger and older (after 51)
+- 
