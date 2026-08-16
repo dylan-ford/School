@@ -1,0 +1,172 @@
+Goals:
+- Summarize the multiple factors that influence the experience of fears and worries in typically-developing children and adolescents
+- Summarize the core symptoms of developmental course of:
+	- separation anxiety disorder
+	- phobic disorder
+	- generalized anxiety disorder
+	- panic disorder
+	- OCD
+	- somatic symptom disorder
+- Integrate and explain how genetics, physiological factors, child factors, and parent factors contribute to the emergence and maintenance of anxiety disorders and obsessive-compulsive disorders
+- Summarize the key components of a comprehensive assessment for anxiety disorders, OCD, and somatic symptom disorder
+- Summarize the evidence-based child and parent treatments for anxiety disorders, OCD, and somatic symptom disorder
+
+Developmental tasks related to emotion experiences, fears and worries
+- development + individual differences influence what stimuli and situations elicit emotion
+- emotions are characterized by valence, intensity, and behavioural activation patterns (approach vs avoid)
+- Distress tolerance: capacity to withstand negative emotional states
+	- perceived capacity and behavioural capacity (Actual response to distress) contribute
+- Distress provides people with information about the possibility of harm
+- Fears: anxieties elicited in the presence of a specific stimulus
+	- Children's ability to differentiate fantasy and reality, and to recognize and control danger help reduce fear
+	- Temperament and behavioural inhibition are individual factors influencing number and strength of fears; girls exhibit more fears than boys
+- Worries: anxieties about possible future events
+	- Negative cognitive biases and executive function difficulties are associated with increased worries
+
+Anxiety Disorders
+- Internalizing disorder where anxiety has gone from typical/adaptive to pathological in intensity, duration, and pervasiveness
+- Characterized by inhibition, withdrawal, exaggerated fears and worries, overcontrolled behaviour, and somatic symptoms
+- Separation anxiety disorder
+	- Symptoms: significant distress when separated from home/attachment figures
+	- Anxiety must be age-inappropriate
+	- Headaches and stomachaches are frequent complications of SAD
+	- Perception: Separation = threatening
+	- Cognition: Child believes harm will come to attached caregiver or to themselves upon separation
+	- Affect: Intense fear or anger when separation is anticipated/experienced
+	- Behaviour: Separation avoided/resisted - child refuses to go to school or sleep alone
+	- Outcomes: peer relationships and academic performance deteriorate
+- Phobic disorder
+	- Excessive fears of particular objects or situations, intense anxiety in the presence of such objects and situations, and avoidant behaviours
+	- Perception: Specific objects/situations perceived as threatening
+	- Cognition: Belief that contact will lead to catastrophe
+	- Affect: Intense fear/anger when in contact
+	- Behaviour: Phobia is avoided
+	- Outcomes: Interpersonal problems in phobic situations; agoraphobia -> social isolation
+- Social/Generalized anxiety disorder
+	- Social: characterized by fear and avoidance in social situations and/or situations that may involve negative evaluations
+	- General: excessive and unrealistic worries and fears about a variety of stimuli and situations
+		- comorbid diagnoses of ADHD, OCD, and mood disorders
+	- Perception: hypervigilant child, environment is perceived as threatening
+	- Cognition: child catastrophizes about daily events
+	- Affect: continual, high level of fear
+	- Behaviour: social activities become restricted
+	- Outcomes: peer relationships and academic performance deteriorate
+- Panic disorder
+	- Characterized by recurrent, somewhat unpredictable panic attacks
+		- intense and uncomfortable episodes of anxiety
+	- Perception: Recurrence of panic attack seen as threatening; attention directed inward and somatic sensations are misinterpreted as threatening
+	- Cognition: Child believes the panic attack may lead to death or injury
+	- Affect: Intense fear during attack, fear of recurrence between attacks
+	- Behaviour: Avoidance of public places in case a panic attack occurs
+	- Outcomes: Agoraphobia -> social isolation
+Obsessive-Compulsive Disorder
+- Obsessions: persistent and intense intrusions of unwanted thoughts
+- Compulsions: persistent and intense impulses to perform a specific behaviour
+- 4 distinct symptom dimensions of OCD in children, adolescents, and adults:
+	- obsessions about harm/responsibility and checking compulsions
+		- associated with fear and anxiety in children and adolescents
+	- symmetry obsessions: arranging/ordering compulsions
+		- associated with disgust
+	- contamination obsessions and cleaning compulsions
+		- associated with disgust
+	- hoarding obsessions and compulsions
+Somatic symptom disorders
+- Somatization: aspects of psychological distress manifest themselves in physical symptoms
+- Use somatic language to describe both physical and emotional problems (headaches, fatigue, pain, sore muscles)
+
+**Developmental Course**
+- Continuity and course of anxiety disorders
+	- homotypic continuity: disorder identified early is the same disorder identified later
+	- in preschool, separation anxiety disorder and generalized anxiety are highly stable over early childhood
+		- greater stability associated with the temperament dimension of behavioural inhibition, with insecure attachment, and with parent depression
+		- Stability of anxiety disorders associated with greater sociodemographic adversity and more maternal depression
+	- Greater number of phobias = greater risk for severity, persistence, and comorbidity
+	- For generalized anxiety disorder, social anxiety disorder, and panic disorder, high levels of negative affectivity, low levels of effortful control, and being a girl were associated with greater risk of persistence
+		- SAD and GAD more likely to be associated with later depression
+	- Children and adolescents with social anxiety disorder and other anxiety disorders are more likely to exhibit below-average social skills and more peer difficulties 
+		- Presence of positive peer relationships contributes to better outcomes; rejection and victimization = worse
+- Continuity and course of OCD
+	- Typical diagnosis between ages of 7 and 13 years
+	- Persistence and severity of OCD symptoms are correlated with comorbid disorders like other anxiety disorders, depression, and ADHD
+	- The more symptoms children or adolescents display, and the greater the symptom severity, the more likely it is that accommodations are made
+		- These accommodations are associated with poor outcomes such as impairment at school and at home
+		- Well intentioned accommodations by multiple individuals across multiple settings may lead to the maintenance or worsening of OCD or anxiety; accommodations should be removed when a youth no longer needs them to be successful with full eventual removal being the goal
+- Continuity and course of somatic symptom disorder
+	- Social consequences of physical symptoms contributes to ongoing difficulties: like when pain is associated with positive attention and activity restriction, symptom maintenance is more likely
+	- Children with these disorders are at increased risk for other psychopathology (anxiety disorders and depressive disorders)
+
+Etiology
+- Genes and heredity
+	- anxious parents are more likely to have anxious children
+	- Genetic influence involves a vulnerability not a disorder-specific risk
+	- Genetic influences are significant for OCD
+	- Clear overlap between vulnerability to anxiety-based disorders and vulnerability to depressive disorders
+		- May be shared etiology, temporal association with 1 preceding the other, or they may be distinct and increase the risk the other develops
+- Physiological factors
+	- Hyperarousal, heightened emotional responsivity, and dysregulation are key contributors to increased risk for anxiety disorders, with early adverse experiences increasing stress sensitivity
+	- Perceptual sensitivity to threat increases risk
+	- G x E x T interactions
+- Child factors
+	- Temperament is associated with anxiety disorders and OCD
+		- the temperamental trait most associated with anxiety is inhibition - a mix of wariness, arousal, and emotional and behavioural preferences
+		- Inhibition is a risk factor that leads to wariness/fear in the presence of environmental stressors
+	- Heightened negative affectivity can lead to increased anxiety which further increases inhibition, negative emotion, and dysregulation
+	- individual differences in emotional regulation - acceptance, problem solving, reappraisal, avoidance, suppression, rumination
+	- Diathesis (predisposition) + multiple stressors increase development of panic disorder or somatic symptom disorder in some youth
+	- Children can practice and learn better ER strategies
+	- Cognitive variables, like what children pay attention to and perceive more closely (threatening stimuli) influence anxiety disorder development
+		- Social information processing factors: cognitive biases and negative interpretations
+	- Behavioural models of risk emphasize the child's learning as the root of anxiety (conditioning, modeling, instruction)
+	- Insecure attachments lead to both short- and long-term outcomes involving anxiety disorders
+- Parent factors
+	- Key risk factors
+		- parental psychopathology: parental anxiety and OCD increase child vulnerability
+		- overcontrol, overprotection, and overinvolvement reduce a child's learning opportunities to engage with anxiety-provoking stimuli and develop effective coping strategies
+		- Modelling: anxious parents model anxious and avoidant behaviours
+		- Accommodation
+		- Socialization of fear: parents may communicate that the world is dangerous and the child is unable to cope
+	- Interaction with child temperament
+		- inhibited/sensitive children are more likely to elicit overcontrol and overprotection from parents
+	- Parental response to children switching from co-regulation to self-regulation when distressed is crucial
+- Environmental factors
+	- Life events and stressors contribute to anxiety vulnerability
+		- loss of parent, divorce, maltreatment increase risk
+		- SES, discrimination, family problems, friendship problems contribute to the development and stability of anxiety
+		- Few environmental contributions to the etiology of OCD
+Assessment and diagnosis
+- goals are to distinguish typical from atypical anxiety and discriminate between disorders
+- Comprehensive assessment for anxiety disorders
+	- screening questionnaires
+	- differentiating disorders
+	- distinguishing mood disorders
+	- narrative stories to elicit anxiety themes for younger children
+	- parent and teacher forms
+- Comprehensive assessment for OCD
+	- structured interviews, child and parental reports, Yale-Brown Obsessive-Compulsive scales (questionnaire on symptom severity)
+	- differential/comorbid diagnoses focus on ruling out anxiety disorders, ASD, tic disorders
+- Comprehensive assessment for Somatic symptom disorder
+	- require integrated medical and psychological approach to rule out physical causes
+- Challenges in assessment
+	- informant discrepancy: often poor agreement between children's and parent's reports of anxiety
+		- child's willingness to describe anxiety; parents awareness
+		- therefore need to collect data from multiple sources
+	- Somatic symptom disorders
+		- require integrated medical and psychological approach to rule out physical causes
+Intervention
+- Prevention programs are successful; parenting intervention
+- early intervention is important for immediate relief and to reduce later risk of disorders
+- therapeutic alliance is crucial
+- pharmacological treatment is often combined with psychological therapies
+- psychological treatments:
+	- CBT
+		- targets problematic beliefs
+		- psychoeducation
+		- somatic management
+		- cognitive restructuring
+		- problem solving
+		- exposure
+		- relapse prevention
+- OCD interventions
+	- exposure and response prevention
+	- build distress tolerance and coping skills, not eliminate anxiety entirely
+	- acceptance and commitment therapy: incorporates mindfulness and acceptance of thoughts

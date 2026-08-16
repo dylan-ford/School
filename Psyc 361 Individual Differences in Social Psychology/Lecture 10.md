@@ -8,7 +8,11 @@
 	- unresponsive, rejecting, and cold caregiving results in an infant response that is avoidant of contact and support, independent and self-reliant, and cope by showing little emotion
 - Pepping 2024 attachment orientations among single individuals
 	- highly avoidant singles prioritize independence, show the least interest in romantic relationships, and experience lower emotional distress from being single, but report fewer close friends and lower life satisfaction
+<<<<<<< HEAD
+	- highly avoidant single avoid intimate relationships but benefit from intimacy and closeness
+=======
 	
+>>>>>>> origin/main
 - According to attachment theory when do people develop attachment insecurity
 	- inconsistent caregiving X
 	- sensitive and responsive caregiving 
