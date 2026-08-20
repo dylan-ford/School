@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-Anxiety and Obsessive Compulsive Disorders
+
 
 Overview
 - Fears: anxieties elicited in the presence of a specific stimulus
@@ -16,7 +15,7 @@ Overview
 	- anxiety about harm to a parent
 - Trajectories: some anxiety/fears naturally decrease over time, some increase, for some children they remain stable
 - Fears and worries become maladaptive when:
-	- they are developmentally inappropriate
+	- They are developmentally inappropriate
 	- They persist beyond expected timeframe
 	- They cause impairment in functioning
 	- They cause clinically-significant distress
