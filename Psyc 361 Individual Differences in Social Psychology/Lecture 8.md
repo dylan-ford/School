@@ -61,4 +61,4 @@ Ambivalent sexism theory
 			- puts pressure on women to have successful relationships
 			- when relationships do not live up the the idealized version of relationships promised, they become more dissatisfied and behave in more hostile ways
 			- women's BS amplifies dissatisfaction when relationship not living up t ideal, particularly when women invested more
->>>>>>> origin/main
+
