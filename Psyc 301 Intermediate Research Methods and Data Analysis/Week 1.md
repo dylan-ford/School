@@ -63,4 +63,8 @@ Prof questions
 - high dimensional modelling
 
 Lecture
-- 
+- linear-regression: line through scatter plot points
+- multiple regression: plane through multiple dimensions
+- main issue of linear regression: lines have to be straight, and straight lines don't always fit data well
+	- may go straight for a bit and curve off later - so a straight line wont fit the data well
+- Non-linear regression: the shape of the regression line can change to more accurately represent the data
