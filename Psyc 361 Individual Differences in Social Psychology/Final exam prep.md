@@ -1,0 +1,250 @@
+Module 1 Personality
+- Define personality or individual differences and understand the core features of personality/traits
+- Describe the big 5 and their typical outcomes
+- History of big 5 and current theories (HEXACO)
+
+- Personality: enduring characteristics and behaviour comprising a person's unique adjustment to life
+	- exist on a continuum
+	- are stable across time
+	- are stable across situations
+- Continuity assumption: abnormal behaviour and normal behaviour are not qualitatively distinct, but experiences of more extreme ends of a spectrum of behaviour/emotion (same category of behaviour, further placement)
+- Behaviour is a function of the continuous interaction between individual traits and situational demands
+- Myers-Briggs
+	- Poor reliability
+	- poor validity
+	- creates false dichotomies
+	- violates continuity assumption
+- Essential trait approach
+	- identifies minimum number of fundamental traits required to explain human behaviour
+	- Cattell used factor analysis to group the 18000 personality-descriptive words (by Allport and Odbert) into 16 categories
+		- weren't replicable and model was complex
+	- Eysenck said there were 3 dimensions, Christal distilled it in to the big 5 we know today
+- Five-factor model:
+	- openness: intellectual curiosity, preference for variety
+	- conscientiousness: reliability, hard-working, goal-directed motivation, preference for structure
+	- extraversion: sociable, active, person-oriented optimistic
+	- agreeableness: cooperative, sympathetic, high value in interpersonal relationships
+	- neuroticism: volatile negative emotions, susceptible to experiencing negative emotions
+- HEXACO: adds a 6th dimension: honesty-humility
+	- characterized by low selfishness, low entitlement, high virtues (compassion, generosity)
+
+Module 2: Growth and fixed mindsets
+- Implicit theories: naïve assumptions individuals hold about themselves and their social world
+	- act as a cognitive lenses that guide how people think about themselves and others and how they interpret life events, formulate attributions of success and failure, and respond emotionally and behaviorally to experiences
+- Fixed mindset (entity theory): Assumption that a particular attribute is stable and immutable
+- Growth mindset (incremental theory): Assumption that a personal attribute is dynamic and subject to positive change
+- Blackwell, Trzesniewski, & Deck study of 373 students found growth mindset predicted upward trajectory of math scores (fixed = flat trajectory)
+- Growth vs fixed mindset adoption mechanisms:
+	- Different achievement goals
+		- Growth mindset people adopt mastery goals, prefer challenging tasks, and are concerned with increasing ability and learning new things
+		- Fixed mindsets adopted performance goals, primarily wanted to appear capable, gain validation, and avoid looking incompetent
+	- Attribution of failure
+		- Growth mindset (incrementalists) attribute failure to temporary, controllable factors
+		- Fixed mindset (entity theorists) attribute failure to internal, uncontrollable factors; helpless attributions "I'm just not good at this"
+	- Responses to challenges and errors
+		- Growth mindset individuals exhibit significantly greater electrical brain activation following errors demonstrating heightened awareness of, and active cognitive attention to mistakes; treat mistakes as diagnostic tools to improve
+		- When faced with low performance, growth mindset individuals show a high willingness to take remedial courses to correct mistakes and fixed mindset individuals are less likely to take remedial courses, as doing so requires admitting a deficiency
+	- Self-regulated learning
+		- Growth mindset (incrementalists) take feedback and channel it into active, determined efforts to try entirely new cognitive strategies to solve problems
+		- Growth mindset individuals are likely to compare themselves to peers who outperform them (upward social comparison) to learn their strategies; fixed mindset individuals prefer downward social comparisons to protect their ego
+- Development of mindsets
+	- implicit theories aren't innate, they are learned
+		- Praise for intelligence
+			- connects success with stable ability, fostering a fixed mindset
+			- Leads children to prioritize performance goals and avoid challenges
+			- When setback occur, it links failure with a lack of intelligence, leading to helpless behaviours, less enjoyment, worse problem-solving over time
+- Socioeconomic context:
+	- Core finding of Claro, Paunesku, & Dweck (2016) is that students who subscribed to a growth mindset significantly outperformed those who subscribed to a fixed mindset regardless of SES
+
+Module 3: Approach and Avoidance goals
+- Appetitive vs Aversive motive dichotomy
+	- Approach (appetite) system: focused on moving toward or maintaining desired, end-states or rewards
+	- Avoidance (Aversive) system: focused on moving away from or staying out of undesired, negative end-states
+		- exceptionally powerful due to loss aversion, where losses are psychologically twice as painful as gains are pleasurable
+- Theoretical convergence on approach vs avoidance
+	- BAS vs BIS
+		- behavioural activation system activates behaviour in response to signals of reward
+		- behavioural inhibition system inhibits behaviour in response to signals of punishment
+	- Higgin's regulatory focus
+		- promotion focus regulates behaviours focused on the attainment of positive aspirational end-states
+		- preventative focus regulates behaviours focused on safety, scrutiny, and avoiding negative outcomes
+- 2x2 achievement goal framework
+	- integrating approach/avoidance with achievement goal theory (mastery vs performance) yields 4 distinct goal orientations
+		- Mastery-approach goals: focus on fully mastering a task, learning, and self-improvement
+		- Mastery-avoidance goal: focus on avoiding failing to master a task, making mistakes; associated with perfectionism (avoid forgetting what ive already learned)
+		- Performance-approach goal: focus on outperforming others
+		- Performance-avoidance goals: focus on avoiding doing worse than others, looking incompetent
+- Academic and well-being outcomes
+	- academic performance: approach goals cause better academic performance than avoidance ones
+	- Mastery-approach goals only are associated with continuous improvements to psychological well-being and intrinsic motivation
+	- Avoidance goals consistently predict highly detrimental psychological and behavioural outcomes
+		- threat construal's of challenges, high test anxiety, disorganized studying, procrastination, shallow cognitive processing, reduced retention, distraction, unwillingness to seek academic help
+- Goal orientations
+	- Mastery-approach
+		- attributes failure to temporary lack of effort or incorrect strategy
+		- views others as helpful partners and sources of learning
+	- Performance-approach
+		- attributes failure to a stable lack of personal ability which threatens self-worth
+		- views others as direct competition to be outperformed
+	- Performance-avoidance
+		- attributes failure to an inherent, permanent lack of ability
+		- hopelessness
+		- views others as judges and threats from which they must hide their incompetence
+- Adaptivity
+	- Avoidance motivation is highly adaptive in environments where mistakes or failures have catastrophic consequences
+		- in individualistic cultures, the self is constructed as separate, and standing out is highly valued. avoidance goals directly conflict with this positive accomplishment bias, correlating avoidance motivation with negative well-being
+		- in collectivist cultures the self is more interdependent. avoidance goals are not associated with lower well-being due to the prioritization of maintaining social harmony
+
+Module 4: Self-determination theory
+- quality over quantity of motivation
+	- Self-determination argues against operant conditioning as a predictor of human behaviour, arguing that the quality of motivation (why) is far more predictive of long-term well-being and persistence than the quantity of motivation
+- Quality dichotomy
+	- Autonomous (self-determined) motivation: motivation that orients from internal sources
+		- volition, personal freedom, self-directed choices
+	- Controlled motivation: motivation driven by external pressures, rewards, demands, fears
+- Self-determination continuum: internalizing extrinsic values
+	- Amotivation > external regulation > introjected regulation > identified regulation > integrated regulation > intrinsic motivation
+	- Extrinsically motivated behaviour can be both autonomous and controlled. If an individual actively internalizes and integrates the value of an extrinsic activity, they can perform it with a full sense of autonomy and volition
+	- examples
+		- "going to university to get a degree to make parents proud"
+			- Autonomous aspect: the student it making the volitional, self-directed choice to attend university
+			- Extrinsic aspect: the primary driver is an external reward to please and impress parents
+		- "buying one's own car to increase independence"
+			- Autonomous aspect: the individual volitionally chooses to purchase the car of their own free will
+			- Extrinsic aspect: the motivation is utilitarian: to achieve the external outcomes of independent transit
+- Outcomes of goals
+	- Intrinsic goals predict higher vitality, self-actualization, and superior physical health
+	- Extrinsic goals: predict significant increases in physical symptoms and depressive symptoms
+- Basic psychological needs
+	- Autonomy: need to act volitionally and in direct accordance with one's own internal values and goals
+	- Competence: a sense of efficacy and mastery in one's context. Having skills + opportunities to grow
+	- Relatedness: the need to feel connection and belonging with others
+	- When tasks satisfy these needs, people perceive them as enjoyable, fostering autonomous motivation. When needs are thwarted or interfered with, tasks are perceived as unenjoyable, leading to controlled motivation or amotivation
+- Consequences of Need frustration
+	- When in environments that interfere with basic psychological needs, lower autonomous motivation is predicted. This in turn significantly increases rates of academic fraud
+- Classifying need-supportive vs need-undermining behaviours
+	- Need-supportive
+		- autonomy: absence of pressure, providing a clear rationale for tasks, offering meaningful choices
+		- competence: providing optimal challenge and informational feedback
+		- relatedness: demonstrating empathy, warmth, acknowledgement of emotions
+	- Need-undermining behaviours
+		- autonomy: pressuring toward specific outcomes, controlling language, using contingencies
+		- competence: providing non-optimal challenges and using negative feedback
+		- relatedness: "cold" interactions, isolation, harsh criticism
+
+Module 5 Regulatory mode theory
+- Beyond pleasure and pain
+	- regulatory mode looks beyond hedonics to examine the specific manner in which goals are pursued, decisions are made, and problems are solved
+		- Locomotion orientation: the action component of goal pursuit; starting, getting things done
+		- Assessment orientation: the testing component; focused on critical evaluation and overthinking to ensure correctness
+- well-being outcomes
+	- low locomotion + high assessment = higher depression
+	- high locomotion + low assessment = satisfaction
+- Performance, grit, passion outcomes
+	- Time management
+		- high locomotive individuals report a high perceived control of time
+		- low locomotion individuals feel low perceived control of time leading to perfectionism, overthinking, distraction, and procrastination
+	- Passion and grit
+		- locomotion is positively associated with harmonious passion (healthy, autonomous engagement in a task) and high levels of grit
+		- assessment associated with obsessive passion (rigid, controlled pressure to perform)
+- Advantages
+	- When a task is complex, better performance is predicted when there is a mix of both high locomotion and high assessment
+	- When primed with assessment orientation, individuals make significantly more far-sighted, delayed choices compared to locomotors
+- Regulatory fit
+	- concerns the match between goal orientation and the manner of that person's goal pursuit
+	- teaching styles: teachers high in locomotion prefer and provide autonomy-supportive teaching
+		- teachers high in assessment prefer and provide more controlled, rigid teaching
+	- fit outcomes
+		- autonomy-supportive learning environment produces maximum satisfaction for students high in locomotion
+		- a controlled learning environment produces maximum satisfaction for students high in assessment
+
+Module 6 RWA, SDO, Prejudice
+- Prejudice gap:
+	- systematic divergence in how different groups support social policies based on ideological attitudes.
+	- conservatives score higher on prejudice than liberals and are more likely to express hostility, intimidation, support anti-democratic policies and practices, and acts of terrorism and political violence
+- Dual process cognitive-motivational model
+	- Right-wing authoritarianism
+		- Social conformity (low openness and high contentiousness)
+		- "the world is a dangerous place"
+		- Establish group safety, social security, cohesion, order, loyalty ,sanctity
+		- Outgroups perceived as dangerous
+	- Social dominance orientation
+		- Tough-mindedness (low agreeableness)
+		- "The world is a competitive jungle"
+		- Establish group dominance, power, superiority
+		- Outgroups perceived as socially subordinate, disadvantaged or weak
+- Bipartisan prejudice
+	- Prejudice is deeply rooted in perceived value conflicts:
+		- Conservative prejudice: rooted in perceived threats to traditional values, authority, and sanctity
+			- predicts prejudice against liberals, atheist's, feminists, and gay people
+		- Liberal prejudice: rooted in perceived threats to fairness, care, and progressivism
+			- Predicts prejudice against conservatives, religious fundamentalists, and business executives
+- Counteracting prejudice
+	- Most effective strategies at decreasing out-party hate and support for undemocratic practices: 
+		- sharing sympathetic personal narratives
+		- correcting out-party misperceptions
+		- priming a common, inclusive national identity
+
+Module 7 Hostile and Benevolent Sexism
+- Ambivalent sexism theory
+	- traditional models viewed sexism as open, hostile antipathy towards women
+	- AST argues sexism is high complex, multidimensional construct consisting of 2 distinct, co-existing ideological components that work in tandem to maintain patriarchy and traditional gender roles
+	- Hostile sexism: an adversarial view characterized by open antipathy, hostility, and derogatory beliefs about women
+	- Benevolent sexism: highly subjective, positive-toned ideology characterized by protective paternalism, complementary gender differentiation, and heterosexual intimacy
+- BS
+	- BS is insidious because its positive, warm tone makes it highly appealing to many women but functions to maintain female subordination
+	- Dependency trap: limits women's autonomy, implying they are weak and need male protection to survive
+	- Undermines performance and competence
+		- women exposed to benevolent sexist feedback performed significantly worse on subsequent cognitive tests compared to women exposed to hostile sexism or control
+		- HS is easily identified and resisted, triggering determination. BS is subtly intrusive
+- Ambivalence loop: how HS and BS interact
+	- Men's hostile sexism -> protects male social power -> damages intimate relationships
+	- this is counterbalanced by men's benevolent sexism -> promises care, adoration, and relationship security -> facilitates intimate relationships
+	- but undermines women's societal competence -> re-subordinates women -> feeds back into HS
+- Women's endorsement
+	- many women actively endorse BS because of the promise of protective paternalism, which is appealing in hostile patriarchies where male protection is necessary to survive
+
+Module 8 Adult attachment insecurities
+- Infant attachment systems
+	- an evolutionary survival mechanism designed to maintain proximity to a protective caregiver
+	- early infant experiences shape internal working models of self and others, which remain stable and influence romantic relationship orientations in adulthood
+- Dimensions of adult attachment insecurity
+	- Attachment anxiety
+		- stems from inconsistent caregiving in infancy
+		- Low self-worth, intense belief they are unlovable, constant fears of abandonment and rejection
+		- Hypervigilant to partner's mood changes, clingy, needy, dependent, demanding of closeness and attention/reassurance
+	- Attachment avoidance
+		- Stems from cold, rejecting caregiving in infancy
+		- high compulsive self-reliance, fear of intimacy's, deep discomfort with closeness
+		- Suppress distress, use deactivating strategies, emotionally withdraw
+- Lifespan trajectories
+	- Attachment anxiety: exhibited a clear curve - peaking in young adulthood and steadily declining across the lifespan
+	- Attachment avoidance: remained stable across lifespan with slight increases in older age (91)
+- Prototype vs epigenetic landscape
+	- Prototype model: adult attachment behaves as a stale prototype or baseline
+		- individuals have a stable baseline level of security, which they made temporarily deviate from, in response to major life events, but gravitate back to
+	- Epigenetic landscape: Attachment development is a landscape of rolling valleys and hills
+		- early infant experiences carve deep pathways guiding where the ball (attachment) goes, but environmental life events can nudge the ball into a neighbouring valley; the deeply carved pathways make major, permanent shifts difficult
+
+Self-esteem and the sociometer
+- Definitions
+	- Trait self-esteem: an individual's stable, average baseline level of self-worth over time
+	- State self-esteem: temporary, dynamic fluctuations in felt self-worth in response to immediate social feedback
+- The sociometer hypothesis
+	- Argues self-esteem did not evolve for self evaluation
+	- its an internal psychological gauge designed to monitor social inclusion and acceptance because group inclusion was necessary for ancestral survival
+- Rejection sensitivity
+	- individuals with low self-esteem have highly sensitive, overactive sociometer
+	- LSE individuals have a deep aversion to ambiguous social feedback
+		- consequently they avoid groups where acceptance is ambiguous to protect themselves from rejection
+- Self-fulfilling prophecy of low self esteem
+	- LSE feel unworthy > expect negative evaluation and rejection > biased perceptions of ambiguous behaviours > emotional and behavioural overreaction of hostility, defensiveness > triggers real negative evaluations and drop in relational value from others > original expectation of unworthiness comes true
+- Lifespan trajectory of self-esteem
+	- self-esteem starts lower in youth and adolescence, steadily rises throughout adulthood, and peaks exactly at 51
+	- after 51 self-esteem exhibits a gradual, steady decline in older age due to changes in roles ,retirement, and physical health
+- Boosting self-esteem
+	- relational insecurity is at the core of low self-esteem
+	- to boost it, interventions must target these underlying negative beliefs
+	- Mindfulness and relaxation is highly effective for helping individuals detach from negative self-talk
+	- Art-therapy is highly effective by allowing creative expression of self-worth
+	- CBT: allows for active reconstruction of cognitive distortions and expectations of rejection

@@ -5,7 +5,6 @@ Final Exam Prep
 - Person x situation: how a single individual's behaviour changes depending on the situation
 - Continuity assumption: personality exists on a spectrum; 2 people can feel the same emotion but respond differently to it - experience different levels of emotion in response to a situation which motivates unique behaviour
 - The main issue with Cattell's 16 personality factors were that they were difficult to replicate. He used factor analysis to come up with the traits and they were normally distributed
-- Practice makes FROGgress
 
 - Implicit theories/implicit beliefs: naive assumptions about the world
 - Regardless of income decile, people with a growth mindset outperform people with a fixed mindset
