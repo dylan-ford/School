@@ -13,7 +13,7 @@ Lecture
 - ? (followed by function name) in the console shows documentation for that EXACT function 
 - ?? is a more loosey regex search 
 	- searches your computer for any packages with the name following the ??
-- Quarto: R markdown langauge
+- Quarto: R markdown language
 	- takes in all of our notes, titles, and formatting, and put them together
 	- new file > Quarto document/presentation
 - Markdown formatting for plaintext
@@ -24,6 +24,11 @@ Lecture
 	- provides a way of entering math equations in text
 	- $ for inline and $ $(beside each other) for centered equations
 	- $H_1 \rightarrow \mu \neq 0 produces $H_1 \rightarrow \mu \neq 0$ 
+
+Tutorial
+- 
+
+
 Ch 2
 Ch 3
 Ch 4
