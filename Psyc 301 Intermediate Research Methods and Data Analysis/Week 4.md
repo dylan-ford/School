@@ -26,6 +26,15 @@ Lecture
 	- t.test(extra ~ group, data = sleep)
 		- 'extra' is the outcome variable (y) 'group' is the predictor variable (x)
 		- ~ tells R we are giving it a formula
+
+Tutorial
+- 
+
+
+
+
+
+
 Ch 12
 Ch 13
 Ch 14
