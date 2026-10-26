@@ -1,1 +1,4 @@
-Assignment 1 due
+~ Assignment 1 due
+
+Lecture 
+- 
