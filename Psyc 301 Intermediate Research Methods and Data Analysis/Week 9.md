@@ -10,4 +10,22 @@ Testing mean differences
 	- take sigma and divide it by the sqr of n
 ![[Pasted image 20261116232805.png]]
 
-- 
+- Assumptions of Z test:
+	- if you're talking about a population, you should be randomly sampling from it
+		- hard to justify practically in psychology, so we admit the research represents *this* specific sample very well and hope the findings generalize from there
+	- Sigma is unchanged by treatment; homogeneity of treatment effect
+		- if everyone in our population were to get the treatment, their scores would shift
+		- we look at sample standard deviation, and does it look like what we expect from the population
+	- all of our other assumptions (p values, etc) are based on the assumption that we are dealing with a normal sample distribution
+- What drives significance?
+	- in order to obtain significant results:
+		- the size of sigma (larger SD, more overlap of distributions)
+		- the sample size (larger n, smaller standard error)
+		- chosen alpha and number of tails (smaller a, harder to reject null hypothesis)
+		- magnitude of the difference between the means (increase treatment effect)
+- T-test/T family
+	- T is a family of normal distributions
+	- its a different curve depending on our sample size, instead of Z which has a static table
+	- t will flatten with the less information that it has. Once you reach a sufficiently large population, it becomes like Z (at infinitep ople/full population, it becomes 1.96 just like Z)
+	- ![[Pasted image 20261117031724.png]]
+	- standard error denominator has been replaced with S )instead of sigma) which is the *estimated* standard error
